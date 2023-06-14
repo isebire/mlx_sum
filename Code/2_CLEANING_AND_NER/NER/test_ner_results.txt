@@ -1,0 +1,339 @@
+---------------------------
+Length: long
+On January 23, 2004, Plaintiff filed an amended complaint under Title VII of the Civil Rights Act of 1964 and the Pregnancy Discrimination Act, 42 U.S.C. § 2000e et seq. and 2000e(k), against AT&T Corporation in the United States District Court for the Western District of Missouri.  The plaintiff, represented by private counsel, was a former AT&T employee and asked the Court for declaratory and injunctive relief, as well as damages, alleging that AT&T's health insurance policy discriminated against women.  Specifically, the plaintiff contended that the defendant's health insurance plan, which did not provide prescription contraceptives (birth control) before 2002 and only through the mail after 2002, violated female employees' civil rights.
+
+The action originally started in the U.S. District Court for the District of Kansas, but was transferred to Missouri on May 12, 2003.  This is the date on which the docket begins.  Originally, there were two plaintiffs on the case, but one dropped out of the litigation.  Thus, a single plaintiff carried forth the case.
+
+On September 3, 2004, the Court (Judge Sachs) denied the plaintiff's motion for class certification.  In the opinion, the Court barely discussed the requirements for a class-action lawsuit, except to point out typicality.  The plaintiff, since the suit began, had stopped taking birth control and was seeking to get pregnant.  Therefore, the Court declared that a class could not be certified without a class representative who would have an ongoing interest in the prayed-for relief.  The plaintiff wanted to recover her past expenditures on the prescribed contraceptives.  The Women's Law project came onto the case as an amicus.  After a lengthy discovery period, the Court made another ruling.
+
+On June 7, 2006, the Court (Judge Sachs) granted the plaintiff's motion for class certification as to the damages in the complaint.  The class was comprised of female employees of AT&T, who paid for their own prescription contraception from the dates of October 31, 2001 to July 2, 2002.  The Court did not certify the claims for injunctive or declaratory relief because as of 2002, the health insurance provider covered birth control through mail order. While the cost of the plaintiff's potential recovery was relatively small, $68.07, the class action potential in the litigation, given AT&T's size made both parties fight vigorously.  According to the docket, neither side was content with this decision.  The plaintiff wanted the period of time for damages claims to be extended, and the defendant did not approve of the decision at all.  Ultimately, the plaintiffs filed an appeal.  
+
+On June 1, 2007, the United States Court of Appeals for the Eighth Circuit issued a preliminary judgment to the District Court (Judge Sachs).  The Circuit Court advised the District Court to review the findings of another recent case, In Re Union Pacific Railroad Employment Practices Litigation, 479 F.3d 936 (8th Cir. 2007).  This case featured a ruling that was fundamentally at odds with the decision of the District Court on June 7, 2006.
+
+On October 22, 2007, the District Court (Judge Sachs) vacated its previous decision, and ordered a decision in favor of the defendant.  The case was closed the next day on October 23, 2007.
+
+
+I think the sentences are: 
+** On January 23, 2004, Plaintiff filed an amended complaint under Title VII of the Civil Rights Act of 1964 and the Pregnancy Discrimination Act, 42 U.S.C. § 2000e et seq. and 2000e(k), against AT&T Corporation in the United States District Court for the Western District of Missouri.
+** The plaintiff, represented by private counsel, was a former AT&T employee and asked the Court for declaratory and injunctive relief, as well as damages, alleging that AT&T's health insurance policy discriminated against women.
+** Specifically, the plaintiff contended that the defendant's health insurance plan, which did not provide prescription contraceptives (birth control) before 2002 and only through the mail after 2002, violated female employees' civil rights.
+** The action originally started in the U.S. District Court for the District of Kansas, but was transferred to Missouri on May 12, 2003.
+** This is the date on which the docket begins.
+** Originally, there were two plaintiffs on the case, but one dropped out of the litigation.
+** Thus, a single plaintiff carried forth the case.
+** On September 3, 2004, the Court (Judge Sachs) denied the plaintiff's motion for class certification.
+** In the opinion, the Court barely discussed the requirements for a class-action lawsuit, except to point out typicality.
+** The plaintiff, since the suit began, had stopped taking birth control and was seeking to get pregnant.
+** Therefore, the Court declared that a class could not be certified without a class representative who would have an ongoing interest in the prayed-for relief.
+** The plaintiff wanted to recover her past expenditures on the prescribed contraceptives.
+** The Women's Law project came onto the case as an amicus.
+** After a lengthy discovery period, the Court made another ruling.
+** On June 7, 2006, the Court (Judge Sachs) granted the plaintiff's motion for class certification as to the damages in the complaint.
+** The class was comprised of female employees of AT&T, who paid for their own prescription contraception from the dates of October 31, 2001 to July 2, 2002.
+** The Court did not certify the claims for injunctive or declaratory relief because as of 2002, the health insurance provider covered birth control through mail order.
+** While the cost of the plaintiff's potential recovery was relatively small, $68.07, the class action potential in the litigation, given AT&T's size made both parties fight vigorously.
+** According to the docket, neither side was content with this decision.
+** The plaintiff wanted the period of time for damages claims to be extended, and the defendant did not approve of the decision at all.
+** Ultimately, the plaintiffs filed an appeal.
+** On June 1, 2007, the United States Court of Appeals for the Eighth Circuit issued a preliminary judgment to the District Court (Judge Sachs).
+** The Circuit Court advised the District Court to review the findings of another recent case, In Re Union Pacific Railroad Employment Practices Litigation, 479 F.3d 936 (8th Cir.
+** 2007).
+** This case featured a ruling that was fundamentally at odds with the decision of the District Court on June 7, 2006.
+** On October 22, 2007, the District Court (Judge Sachs) vacated its previous decision, and ordered a decision in favor of the defendant.
+** The case was closed the next day on October 23, 2007.
+***
+[('January 23, 2004', 'DATE'), ('AT&T Corporation', 'ORG'), ('the United States District Court', 'ORG'), ('the Western District of Missouri', 'ORG'), ('Title VII of the Civil Rights Act of 1964', 'LAW'), ('42 U.S.C. § 2000e et seq. and 2000e(k)', 'LAW'), ('Pregnancy Discrimination Act', 'CLAIMANT_EVENT'), ('AT&T Corporation', 'CLAIMANT_EVENT'), ('amended complaint', 'DOC_EVIDENCE')]
+***
+[('AT&T employee and', 'ORG'), ("AT&T's health", 'ORG'), ('AT&T employee', 'CLAIMANT_EVENT'), ('discriminated against women', 'CLAIMANT_EVENT'), ('declaratory and injunctive relief', 'PROCEDURE')]
+***
+[('2002', 'DATE'), ('2002', 'DATE'), ('health insurance plan', 'CLAIMANT_EVENT'), ('contraceptives', 'CLAIMANT_EVENT'), ("violated female employees' civil rights", 'CLAIMANT_EVENT')]
+***
+[('May 12, 2003', 'DATE'), ('U.S. District', 'GPE'), ('the District of Kansas', 'GPE'), ('Missouri', 'GPE')]
+***
+[]
+***
+[('two plaintiffs', 'CLAIMANT_EVENT')]
+***
+[]
+***
+[('September 3, 2004', 'DATE'), ('Sachs', 'PERSON'), ('class certification', 'PROCEDURE')]
+***
+[('class-action lawsuit', 'PROCEDURE')]
+***
+[('taking birth control', 'CLAIMANT_EVENT'), ('pregnant', 'CLAIMANT_EVENT')]
+***
+[('class representative', 'PROCEDURE')]
+***
+[('contraceptives', 'CLAIMANT_EVENT')]
+***
+[("Women's Law project", 'CLAIMANT_EVENT')]
+***
+[]
+***
+[('June 7, 2006', 'DATE'), ('Sachs', 'PERSON'), ('class certification', 'PROCEDURE')]
+***
+[('October 31, 2001 to July 2, 2002', 'DATE'), ('AT&T, who paid', 'ORG'), ('female', 'CLAIMANT_INFO')]
+***
+[('2002', 'DATE'), ('birth control', 'CLAIMANT_EVENT'), ('declaratory relief', 'PROCEDURE')]
+***
+[("AT&T's size", 'ORG'), ('class action potential', 'PROCEDURE')]
+***
+[]
+***
+[('damages claims', 'CLAIMANT_EVENT')]
+***
+[('appeal', 'PROCEDURE')]
+***
+[('June 1, 2007', 'DATE'), ('the United States Court of Appeals for the Eighth Circuit', 'ORG'), ('preliminary judgment', 'PROCEDURE')]
+***
+[('8th Cir', 'GPE'), ('Union Pacific Railroad', 'ORG'), ('In Re Union Pacific Railroad Employment Practices Litigation', 'LAW_CASE')]
+***
+[('2007', 'DATE')]
+***
+[('June 7, 2006', 'DATE')]
+***
+[('October 22, 2007', 'DATE'), ('Sachs', 'PERSON')]
+***
+[('the next day', 'DATE'), ('October 23, 2007', 'DATE')]
+---------------------------
+Length: short
+This case was brought in 2004 by a female former AT&T employee against AT&T Corp. in the U.S. District Court for the Western District of Missouri.  The plaintiff alleged that AT&T, specifically the company's health insurance policy, discriminated against women, and she sought declaratory and injunctive relief, as well as damages.  The Court originally denied the plaintiff's motion for class certification, but later reversed its denial and granted summary judgment to plaintiff, certifying a class to determine compensation.  However, the Court of Appeals referred the District Court Judge to a relevant case which rejected a challenge to a similar program, thereby forcing the Court to vacate its prior ruling and issue judgment in favor of defendants on October 22, 2007.
+I think the sentences are: 
+** This case was brought in 2004 by a female former AT&T employee against AT&T Corp. in the U.S. District Court for the Western District of Missouri.
+** The plaintiff alleged that AT&T, specifically the company's health insurance policy, discriminated against women, and she sought declaratory and injunctive relief, as well as damages.
+** The Court originally denied the plaintiff's motion for class certification, but later reversed its denial and granted summary judgment to plaintiff, certifying a class to determine compensation.
+** However, the Court of Appeals referred the District Court Judge to a relevant case which rejected a challenge to a similar program, thereby forcing the Court to vacate its prior ruling and issue judgment in favor of defendants on October 22, 2007.
+***
+[('2004', 'DATE'), ('AT&T employee against AT&T Corp.', 'ORG'), ('U.S. District Court', 'ORG'), ('the Western District of Missouri', 'ORG'), ('AT&T employee', 'CLAIMANT_EVENT'), ('AT&T Corp.', 'CLAIMANT_EVENT'), ('female', 'CLAIMANT_INFO')]
+***
+[('AT&T, specifically the', 'ORG'), ('discriminated against women', 'CLAIMANT_EVENT'), ('declaratory and injunctive relief', 'PROCEDURE')]
+***
+[('class certification', 'PROCEDURE'), ('summary judgment', 'PROCEDURE')]
+***
+[('October 22, 2007', 'DATE'), ('Court of Appeals', 'ORG')]
+---------------------------
+Length: long
+In September 2003, the Detroit office of the EEOC brought this Title VII suit against Robert Bosch Corporation in the U.S. District Court for the Western District of Michigan. The complaint alleged that the defendant discriminated against the claimant by failing to provide the claimant with a reasonable accommodation and terminating him because of his religion (Seventh-day Adventist). The claimant intervened in the EEOC's suit in December 2003. The defendant filed a motion for summary judgment in December 2003, and the court granted summary judgment in favor of the defendant in October 2004. The EEOC appealed the case in December 2004, and the Sixth Circuit vacated the judgment and remanded the case in February 2006. The case went to trial in September 2006, and the jury entered a verdict in favor of the defendant in September 2006.
+
+
+I think the sentences are: 
+** In September 2003, the Detroit office of the EEOC brought this Title VII suit against Robert Bosch Corporation in the U.S. District Court for the Western District of Michigan.
+** The complaint alleged that the defendant discriminated against the claimant by failing to provide the claimant with a reasonable accommodation and terminating him because of his religion (Seventh-day Adventist).
+** The claimant intervened in the EEOC's suit in December 2003.
+** The defendant filed a motion for summary judgment in December 2003, and the court granted summary judgment in favor of the defendant in October 2004.
+** The EEOC appealed the case in December 2004, and the Sixth Circuit vacated the judgment and remanded the case in February 2006.
+** The case went to trial in September 2006, and the jury entered a verdict in favor of the defendant in September 2006.
+***
+[('September 2003', 'DATE'), ('Detroit office', 'ORG'), ('EEOC', 'ORG'), ('Robert Bosch Corporation', 'ORG'), ('U.S. District Court', 'ORG'), ('the Western District of Michigan', 'ORG')]
+***
+[('discriminated against the claimant', 'CLAIMANT_EVENT')]
+***
+[('December 2003', 'DATE'), ('EEOC', 'ORG'), ("EEOC's suit", 'CLAIMANT_EVENT')]
+***
+[('December 2003', 'DATE'), ('October 2004', 'DATE'), ('summary judgment', 'PROCEDURE')]
+***
+[('December 2004', 'DATE'), ('February 2006', 'DATE'), ('EEOC', 'ORG'), ('the Sixth Circuit', 'ORG')]
+***
+[('September 2006', 'DATE'), ('September 2006', 'DATE')]
+---------------------------
+Length: long
+On May 10, 2002, the United States filed a lawsuit under Title VII against the City of Fort Lauderdale in the U.S. District Court for the Southern District of Florida, alleging that City's Public Services Department discriminated against an employee on the basis of his race. Specifically, the United States contended that the defendant failed or refused to promote an employee to the position of Engineering Inspector because he was an African-American, and that the defendant failed or refused to take appropriate action to remedy fully the effects of the discrimination against this employee. Furthermore, the United States alleged that the City of Fort Lauderdale subjected the employee to harassment that adversely affected the terms, conditions, and privileges of his employment because he opposed the discriminatory employment practices, filed an internal complaint of discrimination with the City, and filed a charge of discrimination with the Equal Employment Opportunity Commission. The United States sought injunctive and monetary relief.
+
+The defendant eventually promoted the employee to the position of Engineering Inspector I in September 1998, but did not receive back pay or other relief. The defendant denied the United States' allegations and further denied that it had engaged in any unlawful employment discrimination, harassment, or retaliation in violation of Title VII. 
+
+On January 13, 2003, the plaintiffs and the defendant agreed to enter into a consent decree ordered by the district court (Judge Donald L. Graham). The City of Fort Lauderdale agreed not to engage in any act that unlawfully discriminates against any employee or potential employee because of that individual's race. The City further agreed that it would not retaliate against any person in a manner prohibited by Title VII of the Civil Rights Act of 1964 because that person made an internal complaint of discrimination; filed a charge of discrimination with the EEOC, the Florida Commission on Human Relations, or the Broward County Human Rights Division; participated in or cooperated with the initiation, investigation, litigation or administration of this settlement agreement; or provided information to the Department of Justice. Furthermore, the city of Fort Lauderdale agreed to post anti-discrimination and anti-harassment policies in a prominent and conspicuous location in City Hall and in the Department of Public Services. 
+
+Additionally, the City agreed to arrange mandatory training for all employees. While this settlement agreement remains in effect, the city will maintain all records related to the filling of vacancies for Engineering Inspector I positions for each hiring event, application period, test administration, and phase of any test administration, and the Department of Justice can request to see them in order to monitor the city's compliance.
+
+The docket ends on December 7, 2005 with the district court (Judge Graham) entering and order dismissing the case with prejudice.
+
+
+I think the sentences are: 
+** On May 10, 2002, the United States filed a lawsuit under Title VII against the City of Fort Lauderdale in the U.S. District Court for the Southern District of Florida, alleging that City's Public Services Department discriminated against an employee on the basis of his race.
+** Specifically, the United States contended that the defendant failed or refused to promote an employee to the position of Engineering Inspector because he was an African-American, and that the defendant failed or refused to take appropriate action to remedy fully the effects of the discrimination against this employee.
+** Furthermore, the United States alleged that the City of Fort Lauderdale subjected the employee to harassment that adversely affected the terms, conditions, and privileges of his employment because he opposed the discriminatory employment practices, filed an internal complaint of discrimination with the City, and filed a charge of discrimination with the Equal Employment Opportunity Commission.
+** The United States sought injunctive and monetary relief.
+** The defendant eventually promoted the employee to the position of Engineering Inspector I in September 1998, but did not receive back pay or other relief.
+** The defendant denied the United States' allegations and further denied that it had engaged in any unlawful employment discrimination, harassment, or retaliation in violation of Title VII.
+** On January 13, 2003, the plaintiffs and the defendant agreed to enter into a consent decree ordered by the district court (Judge Donald L. Graham).
+** The City of Fort Lauderdale agreed not to engage in any act that unlawfully discriminates against any employee or potential employee because of that individual's race.
+** The City further agreed that it would not retaliate against any person in a manner prohibited by Title VII of the Civil Rights Act of 1964 because that person made an internal complaint of discrimination; filed a charge of discrimination with the EEOC, the Florida Commission on Human Relations, or the Broward County Human Rights Division; participated in or cooperated with the initiation, investigation, litigation or administration of this settlement agreement; or provided information to the Department of Justice.
+** Furthermore, the city of Fort Lauderdale agreed to post anti-discrimination and anti-harassment policies in a prominent and conspicuous location in City Hall and in the Department of Public Services.
+** Additionally, the City agreed to arrange mandatory training for all employees.
+** While this settlement agreement remains in effect, the city will maintain all records related to the filling of vacancies for Engineering Inspector I positions for each hiring event, application period, test administration, and phase of any test administration, and the Department of Justice can request to see them in order to monitor the city's compliance.
+** The docket ends on December 7, 2005 with the district court (Judge Graham) entering and order dismissing the case with prejudice.
+***
+[('May 10, 2002', 'DATE'), ('the United States', 'ORG'), ('the City of Fort Lauderdale', 'ORG'), ('U.S. District Court', 'ORG'), ('the Southern District of Florida', 'ORG'), ('Title VII', 'LAW'), ('discriminated against an employee', 'CLAIMANT_EVENT')]
+***
+[('the United States', 'GPE'), ('African', 'NORP'), ('Engineering Inspector', 'CLAIMANT_EVENT'), ('discrimination', 'CLAIMANT_EVENT')]
+***
+[('the United States', 'ORG'), ('City of Fort Lauderdale', 'ORG'), ('the Equal Employment Opportunity Commission', 'ORG'), ('harassment', 'CLAIMANT_EVENT'), ('discriminatory employment practices', 'CLAIMANT_EVENT'), ('internal complaint of discrimination with the City, and filed a charge of discrimination with the Equal Employment Opportunity Commission', 'PROCEDURE')]
+***
+[('The United States', 'GPE'), ('injunctive and monetary relief', 'PROCEDURE')]
+***
+[('September 1998', 'DATE'), ('Engineering Inspector', 'CLAIMANT_EVENT'), ('back pay', 'CLAIMANT_EVENT')]
+***
+[('Title VII', 'LAW'), ('unlawful employment', 'CLAIMANT_EVENT'), ('discrimination', 'CLAIMANT_EVENT')]
+***
+[('January 13, 2003', 'DATE'), ('Donald L. Graham', 'PERSON'), ('the district court', 'ORG'), ('consent decree', 'PROCEDURE')]
+***
+[('City of Fort Lauderdale', 'ORG'), ('discriminates', 'CLAIMANT_EVENT')]
+***
+[('the Florida Commission on Human Relations', 'ORG'), ('the Broward County Human Rights Division', 'ORG'), ('the Department of Justice', 'ORG'), ('Title VII of the Civil Rights Act of 1964', 'LAW'), ('retaliate against any person', 'CLAIMANT_EVENT'), ('discrimination', 'CLAIMANT_EVENT'), ('discrimination', 'CLAIMANT_EVENT')]
+***
+[('Fort Lauderdale', 'GPE'), ('anti-discrimination', 'CLAIMANT_EVENT'), ('anti-harassment policies', 'CLAIMANT_EVENT')]
+***
+[]
+***
+[('Engineering Inspector', 'CLAIMANT_EVENT'), ('settlement agreement', 'PROCEDURE')]
+***
+[('December 7, 2005', 'DATE'), ('Graham', 'PERSON'), ('dismissing the case with prejudice', 'DETERMINATION')]
+---------------------------
+Length: long
+On April 25, 2016, three individuals that were blind and enrolled in the Barbri bar exam preparation course filed this putative class action lawsuit in the U.S. District Court for the Northern District of Texas. The plaintiffs brought this suit against BarBri Inc., aka Barbri Bar Review, a company that sells and provides products for bar exam preparation. The plaintiffs alleged that Barbri violated the American with Disabilities Act (ADA) (42 U.S.C. §§ 12111 et seq.) and the Texas Human Resource Code §§ 121.002-.003. The plaintiffs, represented by Texas Civil Rights Project and Washington Lawyers’ Committee for Civil Rights/Urban Affairs, sought injunctive, monetary, and declaratory relief as well as attorneys’ fees and costs. This case was assigned to Magistrate Judge Renee Harris Toliver.
+
+The three plaintiffs were all enrolled in the Barbri bar preparation course and relied on Barbri to prepare for the bar examination. The Barbri bar preparation course provided online bar review resources including online live chat to match Barbri students with tutors, an online planner, study outlines, online lecture notes, and online lecture videos. The website, however, was not compatible with the software that the plaintiffs relied on to access the internet, like Job Access With Speech (“JAWS”) screen readers. The plaintiffs requested reasonable accommodation, but BarBri did not provide them. 
+
+On July 1, 2016, the defendant moved to dismiss the lawsuit for lack of jurisdiction and failure to state a claim. The plaintiff amended their complaint on July 19, 2016. This new complaint added more factual allegations and slightly modified the definition of the sought class. The amended class definition was as follows: “All legally blind individuals nationwide who, on or after April 25, 2014, took, plan to take or attempted to take a Barbri bar review course at a time when Barbri’s website, mobile application, or other course materials was or is not fully accessible to legally blind students, or who have   been discouraged from taking the Barbri bar review course due to such inaccessibility.” 
+
+The defendant again moved to dismiss the lawsuit for lack of jurisdiction and failure to state a claim on October 3, 2016. The plaintiffs moved to certify a class on February 10, 2017. The court never ruled on this motion.
+
+In October 2017, the parties underwent settlement discussions. Eventually the parties reached a confidential Settlement Agreement. Then on January 19, 2018, the parties jointly moved for a stipulation of dismissal and sought approval of a consent decree.
+
+Three days later, the court approved the parties’ consent decree. The parties agreed that the court would retain jurisdiction for three years to ensure compliance with this decree. The consent decree prohibited the defendant from engaging in disability discrimination, required the defendant to comply with the ADA, and required the defendant to undergo an accessibility audit to ensure that all accessibility barriers for screen readers were removed. The defendant also agreed to provide accessibility training to all development team employees and to reform its procedures for implementing reasonable accommodations when students request accommodations.
+
+The consent decree remains in force as of May 2020. 
+
+I think the sentences are: 
+** On April 25, 2016, three individuals that were blind and enrolled in the Barbri bar exam preparation course filed this putative class action lawsuit in the U.S. District Court for the Northern District of Texas.
+** The plaintiffs brought this suit against BarBri Inc., aka Barbri Bar Review, a company that sells and provides products for bar exam preparation.
+** The plaintiffs alleged that Barbri violated the American with Disabilities Act (ADA) (42 U.S.C. §§ 12111 et seq.) and the Texas Human Resource Code §§ 121.002-.003.
+** The plaintiffs, represented by Texas Civil Rights Project and Washington Lawyers’ Committee for Civil Rights/Urban Affairs, sought injunctive, monetary, and declaratory relief as well as attorneys’ fees and costs.
+** This case was assigned to Magistrate Judge Renee Harris Toliver.
+** The three plaintiffs were all enrolled in the Barbri bar preparation course and relied on Barbri to prepare for the bar examination.
+** The Barbri bar preparation course provided online bar review resources including online live chat to match Barbri students with tutors, an online planner, study outlines, online lecture notes, and online lecture videos.
+** The website, however, was not compatible with the software that the plaintiffs relied on to access the internet, like Job Access With Speech (“JAWS”) screen readers.
+** The plaintiffs requested reasonable accommodation, but BarBri did not provide them.
+** On July 1, 2016, the defendant moved to dismiss the lawsuit for lack of jurisdiction and failure to state a claim.
+** The plaintiff amended their complaint on July 19, 2016.
+** This new complaint added more factual allegations and slightly modified the definition of the sought class.
+** The amended class definition was as follows: “All legally blind individuals nationwide who, on or after April 25, 2014, took, plan to take or attempted to take a Barbri bar review course at a time when Barbri’s website, mobile application, or other course materials was or is not fully accessible to legally blind students, or who have   been discouraged from taking the Barbri bar review course due to such inaccessibility.”
+** The defendant again moved to dismiss the lawsuit for lack of jurisdiction and failure to state a claim on October 3, 2016.
+** The plaintiffs moved to certify a class on February 10, 2017.
+** The court never ruled on this motion.
+** In October 2017, the parties underwent settlement discussions.
+** Eventually the parties reached a confidential Settlement Agreement.
+** Then on January 19, 2018, the parties jointly moved for a stipulation of dismissal and sought approval of a consent decree.
+** Three days later, the court approved the parties’ consent decree.
+** The parties agreed that the court would retain jurisdiction for three years to ensure compliance with this decree.
+** The consent decree prohibited the defendant from engaging in disability discrimination, required the defendant to comply with the ADA, and required the defendant to undergo an accessibility audit to ensure that all accessibility barriers for screen readers were removed.
+** The defendant also agreed to provide accessibility training to all development team employees and to reform its procedures for implementing reasonable accommodations when students request accommodations.
+** The consent decree remains in force as of May 2020.
+***
+[('April 25, 2016', 'DATE'), ('Barbri bar', 'ORG'), ('the U.S. District Court', 'ORG'), ('the Northern District of Texas', 'ORG'), ('blind', 'CLAIMANT_EVENT'), ('putative class action lawsuit', 'PROCEDURE')]
+***
+[('BarBri Inc.', 'ORG'), ('Barbri Bar Review', 'ORG')]
+***
+[('Barbri', 'PERSON'), ('the American with Disabilities Act', 'LAW'), ('Texas Human Resource Code', 'LAW')]
+***
+[('Texas Civil Rights Project', 'ORG'), ('Washington', 'NORP'), ('Civil Rights Project', 'CLAIMANT_EVENT'), ('declaratory relief', 'PROCEDURE')]
+***
+[('Renee Harris Toliver', 'PERSON'), ('Magistrate Judge Renee Harris Toliver.', 'PROCEDURE')]
+***
+[('Barbri', 'PERSON'), ('Barbri', 'ORG')]
+***
+[('Barbri bar', 'ORG'), ('Barbri', 'ORG')]
+***
+[('“', 'DATE'), ('”', 'DATE')]
+***
+[('BarBri', 'PERSON'), ('reasonable accommodation', 'PROCEDURE')]
+***
+[('July 1, 2016', 'DATE'), ('for lack of jurisdiction', 'EXPLANATION'), ('failure to state a claim', 'EXPLANATION')]
+***
+[('July 19, 2016', 'DATE')]
+***
+[('factual allegations', 'DOC_EVIDENCE')]
+***
+[('April 25, 2014', 'DATE'), ('Barbri', 'GPE'), ('Barbri', 'NORP'), ('legally blind individuals', 'CLAIMANT_EVENT'), ('class definition', 'PROCEDURE')]
+***
+[('October 3, 2016', 'DATE'), ('for lack of jurisdiction', 'EXPLANATION'), ('failure to state a claim', 'EXPLANATION')]
+***
+[('February 10, 2017', 'DATE')]
+***
+[]
+***
+[('October 2017', 'DATE')]
+***
+[('confidential Settlement Agreement', 'PROCEDURE')]
+***
+[('January 19, 2018', 'DATE'), ('stipulation of dismissal', 'PROCEDURE'), ('consent decree', 'PROCEDURE')]
+***
+[('Three days later', 'DATE'), ('consent decree', 'PROCEDURE')]
+***
+[('three years', 'DATE')]
+***
+[('ADA', 'LAW'), ('disability discrimination', 'CLAIMANT_EVENT'), ('consent decree', 'PROCEDURE'), ('accessibility audit', 'DOC_EVIDENCE')]
+***
+[]
+***
+[('May 2020', 'DATE'), ('consent decree', 'PROCEDURE')]
+---------------------------
+Length: short
+In 2016, three individuals who were blind law school graduates enrolled in the BarBri bar preparation course filed this class action complaint in the U.S. District Court for the Northern District of Texas. Plaintiffs alleged that Barbri’s website, which offers bar preparation resources, was not accessible to blind students who relied on screen readers to access the internet. Furthermore, the plaintiffs alleged that Barbri failed to provide reasonable accommodations. In late 2017, the parties reached a confidential settlement agreement, and then in early 2018, the court approved the parties consent decree. This decree granted the court jurisdiction over the matter for three years. In this consent decree, the defendant agreed to make their website accessible to students who relied on screen readers and other similar technology to access the internet. Moreover, the defendant was required to provide anti-discrimination training to its employees, audit its website to ensure accessibility, and refrain from discriminatory conduct.
+
+This case is ongoing. The court still retains jurisdiction to ensure compliance with the consent decree.
+
+I think the sentences are: 
+** In 2016, three individuals who were blind law school graduates enrolled in the BarBri bar preparation course filed this class action complaint in the U.S. District Court for the Northern District of Texas.
+** Plaintiffs alleged that Barbri’s website, which offers bar preparation resources, was not accessible to blind students who relied on screen readers to access the internet.
+** Furthermore, the plaintiffs alleged that Barbri failed to provide reasonable accommodations.
+** In late 2017, the parties reached a confidential settlement agreement, and then in early 2018, the court approved the parties consent decree.
+** This decree granted the court jurisdiction over the matter for three years.
+** In this consent decree, the defendant agreed to make their website accessible to students who relied on screen readers and other similar technology to access the internet.
+** Moreover, the defendant was required to provide anti-discrimination training to its employees, audit its website to ensure accessibility, and refrain from discriminatory conduct.
+** This case is ongoing.
+** The court still retains jurisdiction to ensure compliance with the consent decree.
+***
+[('2016', 'DATE'), ('BarBri bar', 'ORG'), ('the U.S. District Court', 'ORG'), ('the Northern District of Texas', 'ORG'), ('blind law school', 'CLAIMANT_EVENT'), ('class action complaint', 'PROCEDURE')]
+***
+[('Barbri', 'PERSON')]
+***
+[('Barbri', 'PERSON')]
+***
+[('late 2017', 'DATE'), ('early 2018', 'DATE'), ('confidential settlement agreement', 'PROCEDURE'), ('consent decree', 'PROCEDURE')]
+***
+[('three years', 'DATE')]
+***
+[('consent decree', 'PROCEDURE')]
+***
+[('anti-discrimination training', 'CLAIMANT_EVENT'), ('discriminatory conduct', 'CLAIMANT_EVENT')]
+***
+[]
+***
+[('consent decree', 'PROCEDURE')]
+---------------------------
+Length: long
+In March 2001, the EEOC district office in Atlanta, Georgia brought this suit against Wren Chevrolet, Inc., a regional automobile dealership, in the U.S. District Court for the Southern District of Georgia.  The complaint states that two female employees were regularly subjected to sexual harassment and retaliated against when they complained, all in violation of Title VII of the Civil Rights Act of 1964.  The case was quickly disposed of, with a consent decree being entered in June 2001.  
+
+In the consent decree, the parties agreed that the defendant would pay the aggrieved women $75,000 each, refrain from retaliating or discriminating in the basis of sex, post EEO notices, provide EEO training, make semiannual reports to the EEOC, have the alleged harassers read the consent decree, issue neutral reference letters, implement an anti-discrimination policy, and appoint a compliance official.  No fees or costs were awarded.  The terms of the agreement ran for two years.
+
+
+I think the sentences are: 
+** In March 2001, the EEOC district office in Atlanta, Georgia brought this suit against Wren Chevrolet, Inc., a regional automobile dealership, in the U.S. District Court for the Southern District of Georgia.
+** The complaint states that two female employees were regularly subjected to sexual harassment and retaliated against when they complained, all in violation of Title VII of the Civil Rights Act of 1964.
+** The case was quickly disposed of, with a consent decree being entered in June 2001.
+** In the consent decree, the parties agreed that the defendant would pay the aggrieved women $75,000 each, refrain from retaliating or discriminating in the basis of sex, post EEO notices, provide EEO training, make semiannual reports to the EEOC, have the alleged harassers read the consent decree, issue neutral reference letters, implement an anti-discrimination policy, and appoint a compliance official.
+** No fees or costs were awarded.
+** The terms of the agreement ran for two years.
+***
+[('March 2001', 'DATE'), ('Atlanta', 'GPE'), ('Georgia', 'GPE'), ('EEOC', 'ORG'), ('Wren Chevrolet', 'ORG'), ('the U.S. District Court', 'ORG'), ('the Southern District of Georgia', 'ORG'), ('automobile dealership', 'CLAIMANT_EVENT')]
+***
+[('Title VII of the Civil Rights Act of 1964', 'LAW'), ('sexual harassment', 'CLAIMANT_EVENT'), ('retaliated', 'CLAIMANT_EVENT'), ('female employees', 'CLAIMANT_INFO')]
+***
+[('June 2001', 'DATE'), ('consent decree', 'PROCEDURE')]
+***
+[('aggrieved women', 'CLAIMANT_EVENT'), ('anti-discrimination policy', 'CLAIMANT_EVENT'), ('consent decree', 'PROCEDURE'), ('consent decree', 'PROCEDURE')]
+***
+[('No fees or costs', 'EXPLANATION')]
+***
+[('two years', 'DATE')]

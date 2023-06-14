@@ -1,0 +1,27 @@
+1. ACTIVATE UNI VPN
+nrKBH0MI5fcn&X*x
+
+2. SSH TO UNI
+ssh s2435380@student.ssh.inf.ed.ac.uk
+pQnyQ19%p5zW35sD
+
+3. SSH TO CLUSTER
+ssh s2435280@mlp.inf.ed.ac.uk
+
+4. MOVE FILES
+git clone https://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 @github.com/isebire/summarisation.git
+
+6. HUGGINGFACE (the cluster has no internet access so need to prepare all the files)
+huggingface-cli login
+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
+
+5. CONDA
+conda activate edidisscluster
+
+7. RUN THE CODE
+sbatch --time=08:00:00 --mem=14000 --cpus-per-task=4 --gres=gpu:1 output_test.sh
+
+-- moving the files to and from the node needs to be done in this bash script
+-- so can't interact with hugginface directly
+
+8. SEND FILES TO MYSELF??

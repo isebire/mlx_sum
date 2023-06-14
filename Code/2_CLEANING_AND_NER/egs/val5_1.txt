@@ -1,0 +1,164 @@
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 1 of 19 PAGEID #: 9
+
+IN THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF OHIO
+WESTERN DIVISION CINCINNATI, OHIO
+
+S.W., through his legal guardian PAMELA MATTHEWS, 919 Woodlawn Avenue Cincinnati, Ohio 45205
+and
+L.D., through his legal guardian NEFERTTERIA DAWSON, 1259 Rutledge Avenue Cincinnati, Ohio 45205
+and all others similarly situated,
+Plaintiffs,
+
+Case No. 1:14-CV-896 Judge
+CLASS ACTION COMPLAINT FOR DECLARATORY AND INJUNCTIVE RELIEF
+
+v.
+
+JOHN M. WILLIAMS, In his official capacity as: Administrative Judge, Hamilton County Juvenile Court, 800 Broadway, Fourteenth Floor Cincinnati, Ohio 45202,
+
+and
+
+DWAYNE BOWMAN, In his official capacity as : Superintendent Hamilton County Juvenile Court Youth Center 2020 Auburn Avenue Cincinnati, Ohio 45219
+
+and
+
+1
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 2 of 19 PAGEID #: 10
+HAMILTON COUNTY, OHIO/BOARD OF COUNTY COMMISSIONERS, In their official capacities 138 E. Court Street Cincinnati, Ohio 45202
+Defendants.
+I. INTRODUCTORY STATEMENT 1. This is a class action suit pursuant to 42 U.S.C. § 1983 challenging the policy and practice of the Hamilton County Juvenile Court ("Juvenile Court") to arrest and detain children without even the most basic procedural safeguards, and in violation ofthese children's constitutional rights. 2. Defendants engage in patterns or practices in violation of children's constitutional rights by: (I) issuing warrants or authorizing the issuance ofwa!Tants for atTest without probable cause; and (2) detaining and/or authorizing the repeated incarceration of children at the Hamilton County Youth Center without essentials of fairness and due process such as a timely hearing to determine whether there is probable cause to detain them. 3. Plaintiffs bring this suit on their own behalf, as well as on behalf of all children arrested in Hamilton County, Ohio and detained at the Hamilton County Juvenile Court Youth Center ("Detention Center"). They seek a declaration that the Juvenile Court's policy of atTesting and detaining youth without conducting a probable cause hearing or otherwise making a probable cause determination violates their and others' right to due process under the Fourth and Fourteenth Amendments to the United States Constitution. They also request preliminary and permanent injunctive relief enjoining the enforcement of the policy and prohibiting (I) the issuance of arrest
+2
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 3 of 19 PAGEID #: 11
+warrants without a finding of probable cause and (2) the detention of youth after 48 hours without providing a probable cause hearing or a finding of probable cause by a neutral judicial official.
+II. JURISDICTION 4. Jurisdiction over Plaintiffs' claims for declaratory and injunctive relief is proper in this Court pursuant to 28 U.S.C. §§ 1331(a), 1343(3), and 1343(4). 5. This Court has supplemental and pendent jurisdiction pursuant to 28 U.S.C. § 1367 to review and decide Plaintiffs state law claims. 6. Venue is proper in this district and division pursuant to S.D. Ohio Local Rule 82.1, as the various acts which form the basis of this complaint occurred within Hamilton County, Ohio.
+III. PARTIES 7. Plaintiff S. W. is a 17-year-old African-American male who resides in Hamilton County, Ohio. He was arrested by Cincinnati Police Department officers on or about September 11, 2014 and detained at the Hamilton County Juvenile Detention Center from September 11, 2014 to October 10, 2014 pursuant to an order from the Hamilton County Juvenile Court. As a minor child he brings this action by and through his aunt and legal guardian, Pamela Matthews. 8. Plaintiff L.D. is a 16-year-old African-American male who resides in Hamilton County, Ohio. He was arrested on or about July 8, 2013 and detained at the Hamilton County Juvenile Detention Center from July 8, 2013 to July 28,2013, and again from January 29,2014 to February 12, 2014, pursuant to an order from the Hamilton County Juvenile Court. As a minor child, he brings this action by and through his mother, Nefertteria Dawson. 9. Defendant John M. Williams is and was at all times relevant to this action the duly elected Administrative Judge of the Juvenile Court. Defendant Williams is responsible for
+3
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 4 of 19 PAGEID #: 12
+establishing and enforcing the policies, procedures and practices of the Juvenile Court, which hears and decides all cases and issues concerning children in Hamilton County, Ohio. Defendant Williams is also responsible for overseeing Juvenile Court operations, including case management, court services, the detention center and various administrative departments. Defendant Williams is a "person" under 42 U.S.C. § 1983 and at all times relevant to this case acted under color of law. He is sued in his official capacity.
+I 0. Defendant Dwayne Bowman is and was at all times relevant to this action the Superintendent of the Detention Center, a locked, secure detention facility that confines children after arrest, children awaiting adjudication and transfer to other jurisdictions, as well as children serving a short-term commitment ordered by the Juvenile Court. Defendant Bowman is responsible for creating and enforcing policies of Juvenile Coutt and the Detention Center. Defendant Bowman is a "person" under 42 U.S.C. § 1983 and at all times relevant to this case acted under color of law. He is sued in his official capacity.
+II. Defendant Hamilton County, Ohio/Board of County Commissioners ("County") is a unit oflocal government organized under the laws ofthe State of Ohio. Defendant Hamilton County is responsible for adopting and authorizing the policies of Juvenile Court and the Detention Center. Defendant Hamilton County is sued through the Hamilton County Board of County Commissioners who are named only in their official capacity pursuant to O.R.C. §305.12. Defendant is a "person" under 42 U.S.C. § 1983 and at all times relevant to this case acted under color of law.
+IV. CLASS ACTION 12. Plaintiffs S. W. and L.D. bring this action on behalf of themselves and all others similarly situated pursuant to Rule 23(b)(2) of the Federal Rules of Civil Procedure. The class
+4
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 5 of 19 PAGEID #: 13
+consists of all children who have or will in the future be arrested on the basis of warrants and those who are or have been detained at the Detention Center without a probable cause determination.
+13. The members ofthe class are so numerous that joinder ofall members is impractical. Plaintiff believes that approximately 6,074 children were arrested and 2,340 detained after arrest in 2013.
+14. There are questions of law and fact common to the members of the Plaintiff class regarding the constitutionality of Defendants' policies and practices and the claims of the members of the Plaintiff class. The common question oflaw is whether the Juvenile Court's failure to make probable cause determinations by a neutral judicial official at two critical stages-(!) when warrants for arrest are issued and (2) when a child is detained for more than 48 hours-violates the constitutional rights ofthose juveniles accused ofcommitting delinquent acts and those subsequently detained.
+15. The named Plaintiffs in this action, S.W. and L.D. will fairly and adequately protect the interests of the members of the class.
+16. Lead counsel for the Plaintiff class is a civil rights attorney who has experience representing youths in federal civil rights suits, as well as federal civil rights class action experience. Attorneys serving as co-counsel are also civil rights attorneys who have extensive experience representing youths in federal class action suits. 17. The Plaintiff class is properly maintainable under Fed. R. Civ. Pro. 23(b)(2) because Defendants have acted or refused to act on grounds generally applicable to all children arrested and/or detained at the Juvenile Detention Center, thereby making appropriate final injunctive relief and declaratory relief with respect to this class as a whole.
+5
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 6 of 19 PAGEID #: 14
+V. STATEMENT OF FACTS Hamilton County Juvenile Court 18. The Hamilton County Juvenile Court is one of the state's largest courts organized specifically for the purpose of handling juvenile justice cases. The Court is comprised of two fulltime elected judges, 22 magistrates, and various administrative personnel, including Defendant John M. Williams. The judges and magistrates are vested with the authority to hear delinquency cases ranging from minor misdemeanors to high-level felonies. 19. In 2013, the Juvenile Court handled 11,719 delinquency/unruly cases. 20. The Detention Center is a secure facility that provides confinement for youth awaiting adjudication, waiting transfer to another jurisdiction or serving a commitment ordered by the Juvenile Court. Defendant Dwayne Bowman is the Superintendent of the Detention Center. 21. The average daily population of the Detention Center was 90 children in 2013, with an average length of stay of fourteen (14) days. 22. According to the 2013 Annual Report of the Hamilton County Juvenile Court, expenditures for the Youth Center totaled $7,258,814.26, with an additional $28,477.72 in food service costs, for a total of$7,287,291.98. 23. The cost per day of housing a youth at the Hamilton County Juvenile Court Youth Center, based upon the annual expenditures of$7,287,291.98 divided by an average of90 youth per day, is $221.83, for an average total of$3,106 per youth. Arrest Warrants and Detention Intake Procedures Lack Procedural Protections 24. Arrest warrants for Hamilton County children are issued by the Juvenile Court. The Court issues warrants for arrest on misdemeanor and felonies based on allegations in private
+6
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 7 of 19 PAGEID #: 15
+complaints from citizens and affidavits from police officers who did not witness the alleged delinquent act.
+25. Arrest warrants are authorized by the Juvenile Court's "Chief Deputy Clerk" without a judicial finding of probable cause or any inquiry as to whether there is probable cause that the child committed a delinquent act.
+26. According to the Juvenile Court's Annual Report, the Detention Center processed 6,074 intakes for children presented to detention under arrest in 2013. Of those intakes, 2,340 children were admitted to the Detention Center and held.
+27. Per the Detention Center Policy # V4CO 1P03, a "Clerk Officer" at the Detention Center makes the initial decision about whether or not to detain a child who has been arrested. The policy authorizes the clerk to detain a child under several circumstances. The officer is not directed or required to make a probable cause finding at the point of admission.
+28. Intake officers also use the Ohio Youth Assessment System to determine whether or not to incarcerate a child who has been arrested.
+29. The Ohio Youth Assessment System ("OYAS") is a risk and needs assessment system used within Ohio's juvenile justice system. It is designed to assess children at various decision points throughout the juvenile justice system.
+30. OYAS has a specific tool designed to assess youth at the time of detention intake to determine if the youth should be held in detention or released. Factors used to make this determination include: previous history, current emotional state, interview statements, physical presentation, written and verbal statements made by the child or others, and risk of self-harm or harm to others. Children assessed as "high-risk" are detained.
+7
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 8 of 19 PAGEID #: 16
+31. The Detention Center enforces an unwritten policy to detain children accused of certain offenses, despite the results of the OYAS assessment. The Detention Center overrides the OYAS assessment for any child accused of committing a delinquent act with a firearm or deadly weapon.
+32. The intake officer or clerk does not sufficiently evaluate whether there is evidence that a delinquent act was committed, nor otherwise make findings that the arrest was lawful and there is probable cause was established in individual cases.
+33. Intake officers are not judicial officials and maintain no judicial authority under Ohio law, unless designated by the court.
+Detained Children are not afforded Probable Cause Hearings 34. The Rules of Practice of the Hamilton County Juvenile Court do not explicitly require or prescribe procedures for conducting a probable cause determination in delinquency cases. No procedure is specified by which a child arrested and detained on the suspicion of committing a delinquent act may attack the presence of probable cause prior to detention. 35. The Chief Deputy Clerk issues arrest warrants and Juvenile Court judges and magistrates detain children citing Ohio Juvenile Court Rule 7, which does not require a probable cause finding by a judicial officer that a delinquent act was committed. 36. The Juvenile Court conducts detention hearings to determine whether a child's continued detention is required within 72 hours of arrest. This hearing also serves as a "plea hearing" at which time the child admits or denies committing the alleged delinquent act. The Magistrate presiding over the detention hearing does not make a probable cause finding.
+8
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 9 of 19 PAGEID #: 17
+37. Pursuant to Ohio Juv. R. 7, a child may be detained under the following circumstances: (I) to protect the child from immediate or threatened physical or emotional harm; or (2) to protect the person or property of others from immediate or threatened physical or emotional harm; or (3) upon a finding that the child may abscond or be removed from the jurisdiction of the court; or (4) upon a finding that the child has no parent, guardian, custodian or other person able to provide supervision and care for the child and return the child to the court when required; or (5) when an order for placement of the child in detention or shelter care has been made by the court; or (6) if confinement is authorized by statute.
+38. The Ohio Rules of Juvenile Procedure do not explicitly state that a probable cause determination is required at a detention hearing or at any other stage in the juvenile justice process prior to an adjudication hearing.
+39. The Juvenile Court rules require adjudication hearings to be held within ten (I 0) days after placement in detention. However, adjudication hearings can also be postponed up to fourteen (14) additional days beyond that with a showing of good cause. Thus, under Ohio Juvenile Court rules, a child can be arrested and detained without a probable cause determination for up to twenty-four (24) days. Some youth are held in detention beyond that time.
+40. Although Ohio law does not explicitly require a probable cause finding at a detention hearing, O.R.C. §2151.37 states that "the taking of a child into custody is not and shall not be deemed an arrest except for the purpose of determining its validity under the constitution of this state or of the United States." Thus, the detention of a juvenile must be determined to be constitutionally valid.
+9
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 10 of 19 PAGEID #: 18
+41. Pursuant to Ohio Juv. R. 1, the rules are to be "interpreted and construed so as to ...effect the just determination of every juvenile court proceeding by ensuring the parties a fair hearing and the recognition and enforcement of their constitutional and other legal rights."
+42. The Supreme Court of the United States has held that the Fourth Amendment of the United States Constitution requires a judicial determination of probable cause as a prerequisite to an arrest and an extended restraint of liberty following arrest. This constitutional requirement is applicable in juvenile proceedings.
+43. In 2001, a juvenile defendant challenged the Cuyahoga County juvenile court's practice of failing to make probable cause determinations in the Eighth Appellate District Court of Appeals of Ohio. The court upheld the practice of detaining children absent a probable cause finding, citing to the requirements of Juv. R. 7. The Supreme Court of Ohio declined to hear the matter on further appeal.
+44. In sum, neither the Ohio Juvenile Rules, nor the Hamilton County local rules or judicially created case doctrine provides juveniles an opportunity to challenge probable cause after arrest and during the course of an detention hearing.
+Lack of Probable Cause in Plaintiffs' Delinquency Cases 45. PlaintiffS.W. was arrested while at school on September 12,2014 on an aggravated robbery charge, a first degree felony. The arrest report states that the victim alleged that three unknown suspects "brandished a firearm and took property from the victim" on September 7, 2014. The victim described one suspect as having "dreads with blonde tips." The victim did not provide a description of the other two suspects, other than clothing and approximate age. The victim did not allege any facts and/or a description identifying S.W. as a suspect.
+10
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 11 of 19 PAGEID #: 19
+46. The arrest report was completed by the arresting officer. The officer did not witness the alleged incident, nor were there any signed statements from witnesses.
+47. Juvenile Court clerk "Constance C. Murdock" issued the warrant based on the contents ofthe arrest report. There was no probable cause determination made prior to the issuance of the arrest warrant. Constance Murdock is listed on the Juvenile Court's website as Executive Director of Case Management and Docketing.
+48. S.W. was taken into custody by Cincinnati Police officers on September 12,2014 and taken to the Hamilton County Detention Center. Upon arriving, he was held in an intake cell for approximately two hours before being assigned a "pod" in a unit.
+49. S.W. remained in seclusion for two days upon arriving to his unit. He was not permitted to leave his pod and was given cold sack meals.
+50. On or about September 11, 2014, a delinquency complaint was filed against S.W. and he was charged with aggravated robbery, with a firearm specification, in violation ofORC 2913.01, 2911.01, and 2911.02.
+51. The Juvenile Court did not make a probable cause determination prior to issuing an arrest warrant for S.W. nor within 48 hours of his admission to the Detention Center.
+52. On or about September 24, 2014, DefendantJohn Williams ordered S. W. to be held at the Detention Center "in accordance with Rule 7." No probable cause finding was made by Defendant Williams at the time.
+53. S.W.'s attorney advised him that the prosecutor requested to transfer his case to adult court. Although the case was continued to October 6, 2014 for a probable cause hearing, a probable cause hearing never occurred.
+11
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 12 of 19 PAGEID #: 20
+54. S.W. had a trial on October 10,2014, at which time the case was dismissed on the merits. He was released from detention that same day.
+55. S.W. was detained at the Detention Center for thirty (30) days without a probable cause finding made by a neutral judicial officer. During the 30 days spent in detention, S. W. did not attend his high school. He was confused and scared that no one would believe that he was innocent.
+56. This lack of due process has fundamentally harmed S.W. There was no probable cause determination at arrest or subsequent detention at the Detention Center. S.W. was detained until his trial, at which time the charges were dismissed.
+57. Plaintiff L.D. suffers from Oppositional Defiant Disorder ("ODD"), Attention Deficit Hyperactivity Disorder ("ADHD"), has an IQ of 60 along with severe receptive and expressive language deficits. L.D. has had problems at school because of his disabilities, has been suspended several times and has had prior contact with the Juvenile Court. Despite his developmental delay and mental health diagnoses, his competency was never evaluated in previous juvenile delinquency cases. !d.
+58. L.D. was arrested by Cincinnati Police officers, without an arrest warrant, at 7:45 p.m. on July 8, 2013 near his home. He was 14 years old at the time.
+59. When L.D.'s mother protested the arrest of her son with no warrant, officers arrested her for "obstructing official business."
+60. After his arrest, L. D. was taken to the local police precinct and interrogated about a robbery. He denied any involvement in the alleged incident. He was transported to the Hamilton County Detention Center around I :00 am on July 9, 2013.
+61. An arrest warrant for L.D. was issued by Chief Deputy Clerk "John Cullum" on
+12
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 13 of 19 PAGEID #: 21
+July 9, 2013 at I :21 a.m., more than five hours after L.D. was taken into custody. The subsequent complaint was filed on July 9th and alleged that L.D. participated in a robbery, a second degree felony.
+62. L.D. remained incarcerated at the Detention Center from July g<h until July 23'd, pursuant to Ohio Rule 7. There is no indication from court documents that a probable cause determination was made in his case during that time.
+63. On July 23, 2013, L.D. was released with an electronic monitoring ankle bracelet and placed on house arrest. He remained on house arrest from July 23,2013 to January 29,2014 and was only pe1mitted to leave his home to attend school. !d.
+64. On January 29,2014, L.D. was adjudicated delinquent on a lesser charge and sent back to the Detention Center until February 12, 2014. !d. at I 0. L.D. spent a total of 15 days in detention and approximately six months on house arrest, with no probable cause determination made in his case.
+65. This lack of due process has fundamentally harmed L.D. Due to his developmental delays, he did not understand the court process or reasons for his detention.
+66. Because the Juvenile Court does not make probable cause findings within 48 hours of detention as constitutionally required, each of the children annually arrested and detained at the Detention Center are at risk of the same due process deprivations.
+Disparate Impact on African-American Children 67. Juvenile Court's failure to make probable cause findings prior to issuing warrants and detaining children in juvenile delinquency cases has a disproportionate impact on African-American children.
+13
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 14 of 19 PAGEID #: 22
+68. The Juvenile Court is required to report their arrest and detention statistics each year to the Ohio Department of Youth Services and U.S. Department of Justice's Office of Juvenile Justice and Delinquency Prevention ("OJJDP"). Amongst other statistics, OJJDP examines the Juvenile Court's Relative Rate Index ("RRI") to determine the existence and level of Disproportionate Minority Contact ("DMC") occurring at each of the nine major phases of the juvenile court process.
+69. DMC is a term used to describe the overrepresentation of minority youth in the juvenile justice system.
+70. The RRI places a numerical value on the level ofdisparity or difference in contact that a particular racial group has with the juvenile justice system. In the case of Hamilton County Juvenile Court, the formula compares the ratio of African-American children to the ratio of White children. A RRI rate of 1.0 is considered "neutral" indicating that no racial disparity exists.
+71. OJJDP reported that the Juvenile Court's RRI for arrests was 5.81 in 2011-AfricanAmerican children were 5.81 times more likely to be arrested than White children. In addition, the RRI for secure detention placement was 1.87-African-American children were 1.87 times more likely than White children to be placed in secure detention.
+72. OJJDP reported that the Juvenile Court's RRI for arrests was 8.23 in 2012-AfricanAmerican children were 8.23 times more likely to be arrested than White children. In addition, the RRI for secure detention placement was 1.82-African-American children were 1.82 times more likely than White children to be placed in secure detention.
+73. OJJDP reported that the Juvenile Court's RRI for arrests was 9.89 in 2013-AfricanAmerican children were 9.89 times more likely to be arrested than White children. In addition, the
+14
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 15 of 19 PAGEID #: 23
+RRI for secure detention placement was 2.22-African-American children were 2.22 times more likely than White children to be placed in secure detention.
+74. In 2013, 79% of the children arrested in Hamilton County were African-American, despite being approximately 30% of the total population at risk for juvenile justice contact (age 10 through 17).
+75. Of the cases involving secure detention in 2013, nearly 81% of the children were African-American children.
+76. Statistical data from 20 II to 2013 show that African-American children in Hamilton County are far more likely to be arrested and detained than White children.
+VI. CAUSE OF ACTION Claim One:
+Violation of Due Process 77. Plaintiff realleges each of the foregoing paragraphs as if fully rewritten here. 78. Both the Fourteenth Amendment to the United States Constitution and Article I,§ 16 of the Ohio Constitution prohibit the government from adversely impacting an individual's liberty absent procedural due process. 79. Those children, like Plaintiffs S.W. and L.D. and all those they seek to represent, who are arrested and detained in Hamilton County, Ohio have a liberty interest in remaining free from arrest and detention in the absence of a probable cause finding by a neutral judicial officer. 80. The standard procedures and practices promulgated by the Hamilton County Juvenile Court and Detention Center violate the liberty interests of children by issuing improper warrants,
+15
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 16 of 19 PAGEID #: 24
+authorizing the arrest and detention of children without any procedural safeguards or due process whatsoever.
+81. Defendants Williams, Bowman, and Hamilton County are charged with the duty to create and enforce the policies and practices of the Hamilton County Juvenile Court and Detention Center. Defendants created, enforced and authorized policies and practices under which children were arrested and detained without a judicial determination of probable cause that the child committed a delinquent act.
+82. Defendants Williams, Bowman, and Hamilton County have, under color of law, deprived Plaintiff S.W., of rights, privileges, and immunities secured to his by the Fourteenth Amendment of the United States Constitution.
+83. PlaintiffS.W., L.D. and all those similarly situated youth they seek to represent, are therefore entitled to a declaration that the policy and practice of the Hamilton County Juvenile Court permitting the arrest and detention of children without minimum constitutional protections, specifically a probable cause determination that delinquent acts were committed, is unconstitutional under both the Fourteenth Amendment to the United States Constitution and Atticle I,§ 16 of the Ohio Constitution, as well as preliminary and permanent injunctive reliefprohibiting the issuance of arrest warrants and detaining children absent a probable cause finding.
+84. Defendants' action and/or omissions cause serious, irreparable, and lasting harm to children arrested in Hamilton County. These children will continue to suffer irreparable harm in the absence of relief.
+16
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 17 of 19 PAGEID #: 25
+Claim Two: Violation of Fonrth Amendment Rights 85. Plaintiffrealleges each of the foregoing paragraphs as if fully rewritten here. 86. The Fourth Amendment to the United States Constitution, as applied to the states through the Fourteenth Amendment, and analogous provisions of the Ohio Constitution protect individuals from warrantless and unreasonable searches and seizures. 87. Defendants Williams, Bowman, and Hamilton County are charged with the duty to create and enforce the policies and practices of the Hamilton County Juvenile Court and Detention Center. Defendants created, enforced and authorized policies and practices under which children were/are arrested on warrants in the absence of probable cause and detained without a judicial determination of probable cause that the child committed a delinquent act. 88. In light of these principles, the policies, practices, and customs of the Hamilton County Juvenile Court and Detention Center, the arrest and detention ofjuveniles absent a probable cause determination that a delinquent act was committed violates the Fourth Amendment. Plaintiff and similarly situated juveniles are therefore entitled to declaratory and injunctive reliefon this issue.
+VII. PRAYER FOR RELIEF WHEREFORE, Plaintiffs respectfully pray that on their behalfand on the behalfofall others they seeks to represent, that this Court: I. Permit Plaintiffs to proceed in this action under their initials as opposed to their full legal names in order to protect their anonymity; 2. Determine by order, pursuant to Rule 23(b)(2) and (c)(l) ofthe Federal Rules ofCivil Procedure, that this action be maintained as a class action on behalf of the class defined herein;
+17
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 18 of 19 PAGEID #: 26
+3. Enter a final judgment pursuant to 28 U.S.C. §§ 2201 and 2202 and Rules 54, 57, and 58 of the Federal Rules of Civil Procedure that Defendants' policy and practice of authorizing the arrest and detention of children without a probable cause determination violates the Fourth and Fourteenth Amendments to the United States Constitution and Article I, § 16 of the Ohio Constitution;
+4. Preliminarily and permanently enjoin Defendant from enforcing the challenged policy and/or practice;
+5. Order Defendants to comply with the Fourth Amendment by prohibiting (I) the issuance of arrest warrants without a finding of probable cause by a neutral and detached magistrate and (2) the detention ofyouth after 48 hours without providing a probable cause hearing and without a finding of probable cause by a neutral judicial official.
+6. Award Plaintiffreasonable attorney fees and costs pursuant to 42 U.S.C. § 1988; and 7. Grant such other reliefto Plaintiffand all others similarly situated as the Court deems to be just, proper, and equitable.
+Respectfully submitted, Is/ Rickel! L. Howard RICKELL L. HOWARD (Ohio Bar No. 0081982) Trial Attorney for Plaintiffs KIMBERLY TANDY (Ohio BarNo. 0076173) Co-counsel for Plaintiffs Children's Law Center, Inc. I 002 Russell Street Covington, Kentucky 41 0II Telephone: (859) 431-3313 rhoward@childrenslawky.org ktandy@childrenslawky.org
+18
+
+Case: 1:14-cv-00896-SJD Doc #: 1-2 Filed: 11/23/14 Page: 19 of 19 PAGEID #: 27 Is/ Jennifer M. Kinsley JENNIFER M. KINSLEY (Ohio Bar No. 007I629) Co-counsel for Plaintiffs Kinsley Law Office Post Office Box 19478 Cincinnati, Ohio 45219 (513) 708-2595 kinsleylawoffice@gmail.com
+19
+
+
