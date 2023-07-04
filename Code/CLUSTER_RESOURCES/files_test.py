@@ -12,6 +12,7 @@ def main(args):
     with open(f"{args.input_dir}/input_file.txt", 'r') as f:
         print(f.read())
 
+
 	# Move model to GPU
 	#assert torch.cuda.is_available()==True, "No GPU available. Check your Slurm configuration"
 	#model = model.cuda()

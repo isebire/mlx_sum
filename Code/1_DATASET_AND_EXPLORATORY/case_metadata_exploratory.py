@@ -4,7 +4,6 @@
 from datasets import load_dataset
 import pandas
 import pickle
-import pandas
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl

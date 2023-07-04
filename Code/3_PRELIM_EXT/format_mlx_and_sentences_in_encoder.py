@@ -29,6 +29,7 @@ tokenizer = PegasusTokenizer.from_pretrained("nsi319/legal-pegasus")
 ENCODER_MAX_TOKENS = 1024
 total_input_token_lengths = []
 sentence_token_lengths = []
+input_sentences = []
 est_encoder_sentences_list = []
 
 def segment(text):
@@ -89,6 +90,7 @@ for split in ['train', 'validation', 'test']:
 
         sentences = segment(sources_flat)
         num_sentences = len(sentences)
+        input_sentences.append(num_sentences)
 
         for sentence in sentences:
             sentence_tokens = tokenizer.encode(sentence)
@@ -160,3 +162,15 @@ print(p)
 
 # print dist
 graphs.histogram(est_encoder_sentences_list, 'Estimated Number of Sentences To Extract', 'Number of Sentences', 'Frequency', 'num_sentences_extract', log_y=False)
+
+print('Number of sentences in sources for case: max mean min')
+print(max(input_sentences))
+print(statistics.mean(input_sentences))
+print(min(input_sentences))
+
+print('90th percentile')
+p = np.percentile(input_sentences, 90) # return 90th percentile
+print(p)
+
+# print dist
+graphs.histogram(input_sentences, 'Number of Sentences in Source', 'Number of Sentences', 'Frequency', 'sentences_in_source', log_y=False)

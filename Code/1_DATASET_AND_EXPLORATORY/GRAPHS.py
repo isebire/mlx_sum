@@ -74,3 +74,34 @@ def bar_chart(data_dict, x_label, y_label, title, filename, log_y=True):
         ax.set_yscale('log')
 
     fig.savefig(filename, bbox_inches='tight')
+
+
+def box_plot(list_of_lists, group_names, title, x_label, y_label, filename):
+    fig = plt.figure(figsize =(20, 20))
+
+    # Creating axes instance
+    ax = fig.add_axes([0, 0, 1, 1])
+
+    # Creating plot
+    bp = ax.boxplot(list_of_lists, patch_artist = True)
+
+    colourmap = plt.get_cmap("Spectral")
+    colors = plt.cm.Spectral(np.linspace(0,1,len(group_names)))
+
+    for patch, color in zip(bp['boxes'], colors):
+        patch.set_facecolor(color)
+
+    for median in bp['medians']:
+        median.set(color ='black',linewidth = 5)
+
+    for flier in bp['fliers']:
+        flier.set(marker ='D',color ='#e7298a',alpha = 0.5)
+
+    ax.set_xticklabels(group_names)
+    plt.title(title, fontsize=40)
+    plt.xlabel(x_label, fontsize=30)
+    plt.ylabel(y_label, fontsize=30)
+    plt.xticks(fontsize=30)
+    plt.yticks(fontsize=30)
+
+    fig.savefig(filename, bbox_inches='tight')
