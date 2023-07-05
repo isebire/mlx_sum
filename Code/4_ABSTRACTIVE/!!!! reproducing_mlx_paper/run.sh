@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# TO BE RUN ON LANDONIA04
 
 # need to have data directories as args as in
 # https://github.com/cdt-data-science/cluster-scripts/blob/master/experiments/examples/nlp/src/gpu_predict.py
@@ -14,7 +15,7 @@ source /home/${USER}/miniconda3/bin/activate pegasus
 # ====================
 # RSYNC data from /home/ to /disk/scratch/
 # ====================
-export SCRATCH_HOME=/disk/scratch/${USER}
+export SCRATCH_HOME=/disk/scratch_big/${USER}
 export DATA_HOME=${PWD}/inputs_to_send
 export DATA_SCRATCH=${SCRATCH_HOME}/pgr/inputs_to_send
 mkdir -p ${SCRATCH_HOME}/pgr/inputs_to_send

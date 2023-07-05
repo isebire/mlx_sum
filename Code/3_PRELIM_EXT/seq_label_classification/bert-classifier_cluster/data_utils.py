@@ -26,6 +26,16 @@ def readData(tokenizer, args, mode):
 
     '''
 
+    # DOWNSAMPLE for train and validation -> new
+    if mode == "train" or mode == 'dev':
+        df_positive = df[df['label'] == 1]
+        df_negative = df[df['label'] == 0]
+        # downsample negative dataset
+        df_negative_downsampled = df_negative.sample(df_positive.shape[0])
+        df = pd.concat([df_positive, df_negative_downsampled])
+        # shuffle
+        df = df.sample(frac=1)
+
     sentences = df.context.values
     # sentences = ["[CLS] " + sentence + " [SEP]" for sentence in sentences]
     sentences = ["[CLS] " + str(sentence) for sentence in sentences]

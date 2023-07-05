@@ -119,14 +119,15 @@ def main(args):
         output_dir=f"{args.output_dir}/" + "pegasus_original_topk",
         evaluation_strategy="epoch",
         learning_rate=5e-5, # to match mlx paper. in original tutorial: 2e-5
-        per_device_train_batch_size=16,  # was 16 for both but memory error
-        per_device_eval_batch_size=16,
-        gradient_accumulation_steps=16,   # 256/16=16 
+        per_device_train_batch_size=4,  # was 16 for both but memory error
+        per_device_eval_batch_size=4,
+        gradient_accumulation_steps=64,   # 256/4=64
+        gradient_checkpointing=True,  # memory help
         weight_decay=0.01,
         save_total_limit=3,   # max number of times it saves the model checkpoints
         num_train_epochs=6,  # to match mlx paper. in original tutorial: 4
         predict_with_generate=True,
-        # fp16=True,
+        fp16=True,   # was originally commented out?
         push_to_hub=False,   # it won't work otherwise as cluster has no internet
     )
 
