@@ -168,10 +168,10 @@ def main(args):
     # Alt: manually doing inference
 
     print('* Loading tokenizer for inference...')
-    tokenizer = PegasusTokenizer.from_pretrained(MODEL_PATH)
+    tokenizer = PegasusTokenizer.from_pretrained(output_model_path)
 
     print('* Loading trained pegasus model...')
-    model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_PATH)
+    model = AutoModelForSeq2SeqLM.from_pretrained(output_model_path)
 
     results_df_list = []
 

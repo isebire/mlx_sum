@@ -1,0 +1,1303 @@
+Entered file!
+Imports done!
+*** RUN *** 
+chain_2cB
+** Loading results csv
+*** Analysing case 0
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.6, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 1
+{'chain_gold_precision_source': 0.7272727272727273, 'chain_recall_target': 0.36363636363636365, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.4, 'chain_f1_target': 0.380952380952381}
+*** Analysing case 2
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.1, 'chain_f1_target': 0.1739130434782609}
+*** Analysing case 3
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.5714285714285714, 'chain_f1_target': 0.5}
+*** Analysing case 4
+{'chain_gold_precision_source': 0.6923076923076923, 'chain_recall_target': 0.5384615384615384, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.375, 'chain_f1_target': 0.4421052631578948}
+*** Analysing case 5
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.9333333333333333, 'chain_precision_target': 0.06666666666666667, 'chain_f1_target': 0.09523809523809522}
+*** Analysing case 6
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.3333333333333333}
+*** Analysing case 7
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 8
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.18181818181818182, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.17391304347826086}
+*** Analysing case 9
+{'chain_gold_precision_source': 0.7777777777777778, 'chain_recall_target': 0.5555555555555556, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.38461538461538464, 'chain_f1_target': 0.4545454545454546}
+*** Analysing case 10
+{'chain_gold_precision_source': 0.5384615384615384, 'chain_recall_target': 0.23076923076923078, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.27272727272727276}
+*** Analysing case 11
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.5714285714285714, 'chain_f1_target': 0.5714285714285714}
+*** Analysing case 12
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.25000000000000006}
+*** Analysing case 13
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.5, 'chain_f1_target': 0.5714285714285715}
+*** Analysing case 14
+{'chain_gold_precision_source': 0.15384615384615385, 'chain_recall_target': 0.15384615384615385, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.21052631578947367}
+*** Analysing case 15
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.7333333333333333, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 16
+{'chain_gold_precision_source': 0.375, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.28571428571428575}
+*** Analysing case 17
+{'chain_gold_precision_source': 0.44, 'chain_recall_target': 0.12, 'chain_pegasus_precision_source': 0.9230769230769231, 'chain_precision_target': 0.23076923076923078, 'chain_f1_target': 0.15789473684210525}
+*** Analysing case 18
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.09090909090909091, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.1, 'chain_f1_target': 0.09523809523809525}
+*** Analysing case 19
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8666666666666667, 'chain_precision_target': 0.13333333333333333, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 20
+{'chain_gold_precision_source': 0.5384615384615384, 'chain_recall_target': 0.23076923076923078, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.3}
+*** Analysing case 21
+{'chain_gold_precision_source': 0.45454545454545453, 'chain_recall_target': 0.18181818181818182, 'chain_pegasus_precision_source': 0.5454545454545454, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.18181818181818182}
+*** Analysing case 22
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.4, 'chain_f1_target': 0.4444444444444445}
+*** Analysing case 23
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.75, 'chain_f1_target': 0.6}
+*** Analysing case 24
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 1.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.5}
+*** Analysing case 25
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.2, 'chain_f1_target': 0.26086956521739135}
+*** Analysing case 26
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.25, 'chain_f1_target': 0.3157894736842105}
+*** Analysing case 27
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.2, 'chain_f1_target': 0.1818181818181818}
+*** Analysing case 28
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5, 'chain_f1_target': 0.36363636363636365}
+*** Analysing case 29
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.125, 'chain_f1_target': 0.18181818181818182}
+*** Analysing case 30
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 31
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.11764705882352942}
+*** Analysing case 32
+{'chain_gold_precision_source': 0.2, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 33
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.36363636363636365, 'chain_f1_target': 0.4210526315789474}
+*** Analysing case 34
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.3333333333333333}
+*** Analysing case 35
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 36
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.6923076923076923, 'chain_precision_target': 0.07692307692307693, 'chain_f1_target': 0.125}
+*** Analysing case 37
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 38
+Skipping as no entities in gold
+*** Analysing case 39
+{'chain_gold_precision_source': 0.6923076923076923, 'chain_recall_target': 0.38461538461538464, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.3571428571428571}
+*** Analysing case 40
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 41
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.5789473684210527, 'chain_precision_target': 0.15789473684210525, 'chain_f1_target': 0.23076923076923078}
+*** Analysing case 42
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.6428571428571429, 'chain_precision_target': 0.07142857142857142, 'chain_f1_target': 0.09523809523809523}
+*** Analysing case 43
+{'chain_gold_precision_source': 0.4444444444444444, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.625, 'chain_f1_target': 0.5194805194805195}
+*** Analysing case 44
+{'chain_gold_precision_source': 0.2, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.7222222222222222, 'chain_precision_target': 0.05555555555555555, 'chain_f1_target': 0.08695652173913045}
+*** Analysing case 45
+{'chain_gold_precision_source': 0.7777777777777778, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.2, 'chain_f1_target': 0.25}
+*** Analysing case 46
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.5555555555555556, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.25}
+*** Analysing case 47
+{'chain_gold_precision_source': 0.7777777777777778, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.7272727272727273, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.19999999999999998}
+*** Analysing case 48
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8666666666666667, 'chain_precision_target': 0.26666666666666666, 'chain_f1_target': 0.3478260869565218}
+*** Analysing case 49
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.6428571428571429, 'chain_precision_target': 0.07142857142857142, 'chain_f1_target': 0.11111111111111112}
+*** Analysing case 50
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.7272727272727273, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.1111111111111111}
+*** Analysing case 51
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.75, 'chain_pegasus_precision_source': 0.8666666666666667, 'chain_precision_target': 0.26666666666666666, 'chain_f1_target': 0.3934426229508197}
+*** Analysing case 52
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.5714285714285714, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.16666666666666666}
+*** Analysing case 53
+{'chain_gold_precision_source': 0.25, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.18181818181818182}
+*** Analysing case 54
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.2962962962962963}
+*** Analysing case 55
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8125, 'chain_precision_target': 0.125, 'chain_f1_target': 0.18181818181818182}
+*** Analysing case 56
+{'chain_gold_precision_source': 0.2777777777777778, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.46153846153846156, 'chain_f1_target': 0.3}
+*** Analysing case 57
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.15384615384615383}
+*** Analysing case 58
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.7857142857142857, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.19047619047619047}
+*** Analysing case 59
+{'chain_gold_precision_source': 0.16666666666666666, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.9285714285714286, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.15384615384615383}
+*** Analysing case 60
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 61
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 62
+{'chain_gold_precision_source': 0.1111111111111111, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 63
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5, 'chain_f1_target': 0.4}
+*** Analysing case 64
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.8125, 'chain_precision_target': 0.375, 'chain_f1_target': 0.4800000000000001}
+*** Analysing case 65
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.6363636363636364, 'chain_precision_target': 0.36363636363636365, 'chain_f1_target': 0.34782608695652173}
+*** Analysing case 66
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.5555555555555556, 'chain_f1_target': 0.5263157894736842}
+*** Analysing case 67
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.7272727272727273, 'chain_precision_target': 0.45454545454545453, 'chain_f1_target': 0.47619047619047616}
+*** Analysing case 68
+{'chain_gold_precision_source': 0.6923076923076923, 'chain_recall_target': 0.23076923076923078, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.3}
+*** Analysing case 69
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.4166666666666667, 'chain_pegasus_precision_source': 0.5454545454545454, 'chain_precision_target': 0.6363636363636364, 'chain_f1_target': 0.5035971223021583}
+*** Analysing case 70
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.35714285714285715, 'chain_pegasus_precision_source': 0.8666666666666667, 'chain_precision_target': 0.4, 'chain_f1_target': 0.3773584905660378}
+*** Analysing case 71
+{'chain_gold_precision_source': 0.25, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.6363636363636364, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 72
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.125, 'chain_f1_target': 0.18181818181818182}
+*** Analysing case 73
+{'chain_gold_precision_source': 0.5789473684210527, 'chain_recall_target': 0.3157894736842105, 'chain_pegasus_precision_source': 0.9411764705882353, 'chain_precision_target': 0.5882352941176471, 'chain_f1_target': 0.4109589041095891}
+*** Analysing case 74
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.85, 'chain_precision_target': 0.1, 'chain_f1_target': 0.14814814814814817}
+*** Analysing case 75
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.16}
+*** Analysing case 76
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 77
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.6363636363636364, 'chain_f1_target': 0.6021505376344085}
+*** Analysing case 78
+{'chain_gold_precision_source': 0.5555555555555556, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.36363636363636365, 'chain_f1_target': 0.39999999999999997}
+*** Analysing case 79
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.625, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.5454545454545454, 'chain_f1_target': 0.5825242718446602}
+*** Analysing case 80
+{'chain_gold_precision_source': 0.375, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 81
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 0.625, 'chain_precision_target': 0.625, 'chain_f1_target': 0.6122448979591836}
+*** Analysing case 82
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.8095238095238095, 'chain_precision_target': 0.09523809523809523, 'chain_f1_target': 0.16666666666666666}
+*** Analysing case 83
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.25, 'chain_f1_target': 0.23529411764705882}
+*** Analysing case 84
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.625, 'chain_pegasus_precision_source': 0.5294117647058824, 'chain_precision_target': 0.29411764705882354, 'chain_f1_target': 0.4}
+*** Analysing case 85
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.16, 'chain_f1_target': 0.22429906542056072}
+*** Analysing case 86
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.1, 'chain_f1_target': 0.15384615384615383}
+*** Analysing case 87
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.2181818181818182}
+*** Analysing case 88
+{'chain_gold_precision_source': 0.3076923076923077, 'chain_recall_target': 0.07692307692307693, 'chain_pegasus_precision_source': 0.7692307692307693, 'chain_precision_target': 0.07692307692307693, 'chain_f1_target': 0.07692307692307693}
+*** Analysing case 89
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 90
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.375, 'chain_f1_target': 0.35294117647058826}
+*** Analysing case 91
+{'chain_gold_precision_source': 0.7777777777777778, 'chain_recall_target': 0.5555555555555556, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.4166666666666667, 'chain_f1_target': 0.4761904761904762}
+*** Analysing case 92
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.25}
+*** Analysing case 93
+{'chain_gold_precision_source': 0.5384615384615384, 'chain_recall_target': 0.38461538461538464, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.3571428571428571}
+*** Analysing case 94
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.95, 'chain_precision_target': 0.2, 'chain_f1_target': 0.23529411764705882}
+*** Analysing case 95
+{'chain_gold_precision_source': 0.6842105263157895, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 96
+{'chain_gold_precision_source': 0.7777777777777778, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.3}
+*** Analysing case 97
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 98
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.07692307692307693, 'chain_f1_target': 0.1}
+*** Analysing case 99
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.3, 'chain_f1_target': 0.21428571428571427}
+*** Analysing case 100
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 101
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8666666666666667, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 102
+{'chain_gold_precision_source': 0.8888888888888888, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.34782608695652173}
+*** Analysing case 103
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.25}
+*** Analysing case 104
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.3, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.4166666666666667, 'chain_f1_target': 0.3488372093023256}
+*** Analysing case 105
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.18181818181818182, 'chain_pegasus_precision_source': 0.7727272727272727, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.12121212121212123}
+*** Analysing case 106
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 0.5384615384615384, 'chain_precision_target': 0.46153846153846156, 'chain_f1_target': 0.5217391304347826}
+*** Analysing case 107
+{'chain_gold_precision_source': 0.8181818181818182, 'chain_recall_target': 0.36363636363636365, 'chain_pegasus_precision_source': 0.7333333333333333, 'chain_precision_target': 0.26666666666666666, 'chain_f1_target': 0.30769230769230765}
+*** Analysing case 108
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.21428571428571427, 'chain_f1_target': 0.2857142857142857}
+*** Analysing case 109
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.8125, 'chain_precision_target': 0.0625, 'chain_f1_target': 0.09090909090909091}
+*** Analysing case 110
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 0.9444444444444444, 'chain_precision_target': 0.3888888888888889, 'chain_f1_target': 0.47191011235955055}
+*** Analysing case 111
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.21428571428571427, 'chain_f1_target': 0.2857142857142857}
+*** Analysing case 112
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.7142857142857143, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.4117647058823529, 'chain_f1_target': 0.5223880597014926}
+*** Analysing case 113
+{'chain_gold_precision_source': 0.7777777777777778, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.25925925925925924, 'chain_f1_target': 0.37333333333333335}
+*** Analysing case 114
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.9444444444444444, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.17647058823529413}
+*** Analysing case 115
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3888888888888889, 'chain_pegasus_precision_source': 0.8235294117647058, 'chain_precision_target': 0.35294117647058826, 'chain_f1_target': 0.37004405286343617}
+*** Analysing case 116
+{'chain_gold_precision_source': 0.29411764705882354, 'chain_recall_target': 0.23529411764705882, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.6666666666666666, 'chain_f1_target': 0.3478260869565218}
+*** Analysing case 117
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.1, 'chain_pegasus_precision_source': 0.7333333333333333, 'chain_precision_target': 0.06666666666666667, 'chain_f1_target': 0.08}
+*** Analysing case 118
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.08, 'chain_f1_target': 0.125}
+*** Analysing case 119
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.25, 'chain_f1_target': 0.3}
+*** Analysing case 120
+{'chain_gold_precision_source': 0.7272727272727273, 'chain_recall_target': 0.5454545454545454, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.47619047619047616, 'chain_f1_target': 0.5084745762711864}
+*** Analysing case 121
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 122
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.25}
+*** Analysing case 123
+{'chain_gold_precision_source': 0.25, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.08333333333333333, 'chain_f1_target': 0.125}
+*** Analysing case 124
+{'chain_gold_precision_source': 0.7777777777777778, 'chain_recall_target': 0.5555555555555556, 'chain_pegasus_precision_source': 0.6923076923076923, 'chain_precision_target': 0.38461538461538464, 'chain_f1_target': 0.4545454545454546}
+*** Analysing case 125
+{'chain_gold_precision_source': 0.7857142857142857, 'chain_recall_target': 0.21428571428571427, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.2, 'chain_f1_target': 0.20689655172413796}
+*** Analysing case 126
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.4, 'chain_f1_target': 0.4000000000000001}
+*** Analysing case 127
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.45454545454545453, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.5, 'chain_f1_target': 0.47619047619047616}
+*** Analysing case 128
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.3037974683544304}
+*** Analysing case 129
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.25, 'chain_f1_target': 0.3076923076923077}
+*** Analysing case 130
+{'chain_gold_precision_source': 0.5833333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.5833333333333334, 'chain_f1_target': 0.4242424242424242}
+*** Analysing case 131
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.36363636363636365, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.33333333333333337}
+*** Analysing case 132
+{'chain_gold_precision_source': 0.46153846153846156, 'chain_recall_target': 0.46153846153846156, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.5, 'chain_f1_target': 0.48000000000000004}
+*** Analysing case 133
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.6666666666666666, 'chain_f1_target': 0.5714285714285715}
+*** Analysing case 134
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.7666666666666667, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 135
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.21428571428571427, 'chain_pegasus_precision_source': 0.8823529411764706, 'chain_precision_target': 0.17647058823529413, 'chain_f1_target': 0.1935483870967742}
+*** Analysing case 136
+{'chain_gold_precision_source': 0.9, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.9230769230769231, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.17391304347826086}
+*** Analysing case 137
+{'chain_gold_precision_source': 0.46153846153846156, 'chain_recall_target': 0.15384615384615385, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.2, 'chain_f1_target': 0.17391304347826086}
+*** Analysing case 138
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.08333333333333333, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.07142857142857142, 'chain_f1_target': 0.07692307692307691}
+*** Analysing case 139
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.1, 'chain_f1_target': 0.15384615384615383}
+*** Analysing case 140
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 141
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.6875, 'chain_precision_target': 0.1875, 'chain_f1_target': 0.2727272727272727}
+*** Analysing case 142
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8947368421052632, 'chain_precision_target': 0.10526315789473684, 'chain_f1_target': 0.17391304347826086}
+*** Analysing case 143
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.3157894736842105}
+*** Analysing case 144
+{'chain_gold_precision_source': 0.25, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.07142857142857142, 'chain_f1_target': 0.09090909090909091}
+*** Analysing case 145
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.6666666666666666, 'chain_f1_target': 0.36363636363636365}
+*** Analysing case 146
+{'chain_gold_precision_source': 0.35714285714285715, 'chain_recall_target': 0.21428571428571427, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.2, 'chain_f1_target': 0.20689655172413796}
+*** Analysing case 147
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.9230769230769231, 'chain_precision_target': 0.07692307692307693, 'chain_f1_target': 0.11764705882352941}
+*** Analysing case 148
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.11764705882352941}
+*** Analysing case 149
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.6363636363636364, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.3157894736842105}
+*** Analysing case 150
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.13333333333333333, 'chain_f1_target': 0.18181818181818182}
+*** Analysing case 151
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.23529411764705882}
+*** Analysing case 152
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.16}
+*** Analysing case 153
+{'chain_gold_precision_source': 0.7777777777777778, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.19999999999999998}
+*** Analysing case 154
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.7058823529411765, 'chain_precision_target': 0.058823529411764705, 'chain_f1_target': 0.08695652173913045}
+*** Analysing case 155
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.1, 'chain_pegasus_precision_source': 0.7272727272727273, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.12903225806451613}
+*** Analysing case 156
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 157
+{'chain_gold_precision_source': 0.46153846153846156, 'chain_recall_target': 0.23076923076923078, 'chain_pegasus_precision_source': 0.5454545454545454, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.24999999999999994}
+*** Analysing case 158
+{'chain_gold_precision_source': 0.5555555555555556, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.3333333333333333}
+*** Analysing case 159
+{'chain_gold_precision_source': 0.36363636363636365, 'chain_recall_target': 0.18181818181818182, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.17391304347826086}
+*** Analysing case 160
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.8421052631578947, 'chain_precision_target': 0.21052631578947367, 'chain_f1_target': 0.27586206896551724}
+*** Analysing case 161
+{'chain_gold_precision_source': 0.8, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.6363636363636364, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.3529411764705882}
+*** Analysing case 162
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8125, 'chain_precision_target': 0.1875, 'chain_f1_target': 0.24000000000000005}
+*** Analysing case 163
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.3333333333333333, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.2222222222222222}
+*** Analysing case 164
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.1, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.09523809523809525}
+*** Analysing case 165
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.08333333333333333, 'chain_pegasus_precision_source': 0.6923076923076923, 'chain_precision_target': 0.07692307692307693, 'chain_f1_target': 0.08}
+*** Analysing case 166
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.8333333333333334, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.47619047619047616}
+*** Analysing case 167
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.3, 'chain_pegasus_precision_source': 0.9375, 'chain_precision_target': 0.4375, 'chain_f1_target': 0.3559322033898305}
+*** Analysing case 168
+{'chain_gold_precision_source': 0.4166666666666667, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8125, 'chain_precision_target': 0.1875, 'chain_f1_target': 0.21428571428571427}
+*** Analysing case 169
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.6428571428571429, 'chain_precision_target': 0.21428571428571427, 'chain_f1_target': 0.2608695652173913}
+*** Analysing case 170
+{'chain_gold_precision_source': 0.7272727272727273, 'chain_recall_target': 0.5454545454545454, 'chain_pegasus_precision_source': 0.84375, 'chain_precision_target': 0.34375, 'chain_f1_target': 0.42172523961661346}
+*** Analysing case 171
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.25}
+*** Analysing case 172
+{'chain_gold_precision_source': 0.6896551724137931, 'chain_recall_target': 0.10344827586206896, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.21428571428571427, 'chain_f1_target': 0.1395348837209302}
+*** Analysing case 173
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.9333333333333333, 'chain_precision_target': 0.06666666666666667, 'chain_f1_target': 0.1}
+*** Analysing case 174
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 175
+{'chain_gold_precision_source': 0.6428571428571429, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.375, 'chain_f1_target': 0.42857142857142855}
+*** Analysing case 176
+{'chain_gold_precision_source': 0.6111111111111112, 'chain_recall_target': 0.2777777777777778, 'chain_pegasus_precision_source': 0.631578947368421, 'chain_precision_target': 0.3684210526315789, 'chain_f1_target': 0.31674208144796384}
+*** Analysing case 177
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.08333333333333333, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.07142857142857142, 'chain_f1_target': 0.07692307692307691}
+*** Analysing case 178
+{'chain_gold_precision_source': 0.5555555555555556, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.45454545454545453, 'chain_f1_target': 0.44943820224719094}
+*** Analysing case 179
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 180
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.9230769230769231, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.2222222222222222}
+*** Analysing case 181
+{'chain_gold_precision_source': 0.35294117647058826, 'chain_recall_target': 0.23529411764705882, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.30379746835443033}
+*** Analysing case 182
+{'chain_gold_precision_source': 0.2, 'chain_recall_target': 0.13333333333333333, 'chain_pegasus_precision_source': 0.8666666666666667, 'chain_precision_target': 0.13333333333333333, 'chain_f1_target': 0.13333333333333333}
+*** Analysing case 183
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 184
+{'chain_gold_precision_source': 0.7272727272727273, 'chain_recall_target': 0.18181818181818182, 'chain_pegasus_precision_source': 0.6875, 'chain_precision_target': 0.125, 'chain_f1_target': 0.14814814814814814}
+*** Analysing case 185
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.5, 'chain_f1_target': 0.5}
+*** Analysing case 186
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.22727272727272727, 'chain_f1_target': 0.3252032520325203}
+*** Analysing case 187
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.2, 'chain_f1_target': 0.27272727272727276}
+*** Analysing case 188
+{'chain_gold_precision_source': 0.7272727272727273, 'chain_recall_target': 0.36363636363636365, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.34782608695652173}
+*** Analysing case 189
+{'chain_gold_precision_source': 0.4444444444444444, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.7272727272727273, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.19999999999999998}
+*** Analysing case 190
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.5, 'chain_f1_target': 0.4615384615384615}
+*** Analysing case 191
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.3, 'chain_f1_target': 0.37499999999999994}
+*** Analysing case 192
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.4166666666666667, 'chain_pegasus_precision_source': 0.8125, 'chain_precision_target': 0.375, 'chain_f1_target': 0.3947368421052631}
+*** Analysing case 193
+{'chain_gold_precision_source': 0.875, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.3, 'chain_f1_target': 0.37499999999999994}
+*** Analysing case 194
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.7692307692307693, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.380952380952381}
+*** Analysing case 195
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.1111111111111111, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.1111111111111111}
+*** Analysing case 196
+{'chain_gold_precision_source': 0.7272727272727273, 'chain_recall_target': 0.2727272727272727, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.3}
+*** Analysing case 197
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.9285714285714286, 'chain_precision_target': 0.21428571428571427, 'chain_f1_target': 0.2608695652173913}
+*** Analysing case 198
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.380952380952381}
+*** Analysing case 199
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.08333333333333333, 'chain_f1_target': 0.10526315789473685}
+*** Analysing case 200
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.45454545454545453, 'chain_pegasus_precision_source': 0.8260869565217391, 'chain_precision_target': 0.30434782608695654, 'chain_f1_target': 0.3645833333333333}
+*** Analysing case 201
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.1875, 'chain_f1_target': 0.25531914893617025}
+*** Analysing case 202
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.6470588235294118, 'chain_precision_target': 0.23529411764705882, 'chain_f1_target': 0.24242424242424243}
+*** Analysing case 203
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.2222222222222222}
+*** Analysing case 204
+{'chain_gold_precision_source': 0.125, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 205
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8666666666666667, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.4}
+*** Analysing case 206
+{'chain_gold_precision_source': 0.14285714285714285, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.8666666666666667, 'chain_precision_target': 0.06666666666666667, 'chain_f1_target': 0.09090909090909091}
+*** Analysing case 207
+{'chain_gold_precision_source': 0.25, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.10526315789473685}
+*** Analysing case 208
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 209
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.6363636363636364, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 210
+{'chain_gold_precision_source': 0.5555555555555556, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.3, 'chain_f1_target': 0.3157894736842105}
+*** Analysing case 211
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.3, 'chain_pegasus_precision_source': 0.7058823529411765, 'chain_precision_target': 0.17647058823529413, 'chain_f1_target': 0.22222222222222224}
+*** Analysing case 212
+{'chain_gold_precision_source': 0.5333333333333333, 'chain_recall_target': 0.26666666666666666, 'chain_pegasus_precision_source': 0.7666666666666667, 'chain_precision_target': 0.13333333333333333, 'chain_f1_target': 0.17777777777777776}
+*** Analysing case 213
+{'chain_gold_precision_source': 0.25, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.17391304347826086}
+*** Analysing case 214
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 215
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.26666666666666666, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.25, 'chain_f1_target': 0.2580645161290323}
+*** Analysing case 216
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.7692307692307693, 'chain_precision_target': 0.07692307692307693, 'chain_f1_target': 0.13333333333333336}
+*** Analysing case 217
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.1, 'chain_f1_target': 0.11764705882352941}
+*** Analysing case 218
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.125, 'chain_f1_target': 0.15384615384615385}
+*** Analysing case 219
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.3, 'chain_f1_target': 0.37499999999999994}
+*** Analysing case 220
+{'chain_gold_precision_source': 0.6363636363636364, 'chain_recall_target': 0.18181818181818182, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.2, 'chain_f1_target': 0.1904761904761905}
+*** Analysing case 221
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.6923076923076923, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.380952380952381}
+*** Analysing case 222
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 223
+{'chain_gold_precision_source': 0.4166666666666667, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.25, 'chain_f1_target': 0.2}
+*** Analysing case 224
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.36363636363636365, 'chain_f1_target': 0.4210526315789474}
+*** Analysing case 225
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.13333333333333333}
+*** Analysing case 226
+{'chain_gold_precision_source': 0.8888888888888888, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.380952380952381}
+*** Analysing case 227
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.1111111111111111}
+*** Analysing case 228
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 229
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.5555555555555556, 'chain_f1_target': 0.5633802816901409}
+*** Analysing case 230
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.25}
+*** Analysing case 231
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.5714285714285714, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 232
+{'chain_gold_precision_source': 0.5625, 'chain_recall_target': 0.4375, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.5833333333333334, 'chain_f1_target': 0.5}
+*** Analysing case 233
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.9545454545454546, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 234
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.21428571428571427, 'chain_f1_target': 0.3}
+*** Analysing case 235
+{'chain_gold_precision_source': 0.5833333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.5789473684210527, 'chain_precision_target': 0.2631578947368421, 'chain_f1_target': 0.29411764705882354}
+*** Analysing case 236
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.4375, 'chain_pegasus_precision_source': 0.6818181818181818, 'chain_precision_target': 0.22727272727272727, 'chain_f1_target': 0.29914529914529914}
+*** Analysing case 237
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.7142857142857143, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.4166666666666667, 'chain_f1_target': 0.5263157894736842}
+*** Analysing case 238
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.1904761904761905}
+*** Analysing case 239
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 1.0, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.19999999999999998}
+*** Analysing case 240
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.4, 'chain_precision_target': 0.1, 'chain_f1_target': 0.16666666666666669}
+*** Analysing case 241
+{'chain_gold_precision_source': 0.45454545454545453, 'chain_recall_target': 0.36363636363636365, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.5714285714285714, 'chain_f1_target': 0.4444444444444444}
+*** Analysing case 242
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.125, 'chain_f1_target': 0.14285714285714288}
+*** Analysing case 243
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.45454545454545453, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 244
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.23076923076923078, 'chain_f1_target': 0.25531914893617025}
+*** Analysing case 245
+{'chain_gold_precision_source': 0.875, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.5, 'chain_f1_target': 0.5}
+*** Analysing case 246
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.39999999999999997}
+*** Analysing case 247
+{'chain_gold_precision_source': 0.5833333333333334, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.6, 'chain_f1_target': 0.5454545454545454}
+*** Analysing case 248
+{'chain_gold_precision_source': 0.6086956521739131, 'chain_recall_target': 0.43478260869565216, 'chain_pegasus_precision_source': 0.6363636363636364, 'chain_precision_target': 0.5454545454545454, 'chain_f1_target': 0.48387096774193544}
+*** Analysing case 249
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.45454545454545453, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.2439024390243902}
+*** Analysing case 250
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.15384615384615383}
+*** Analysing case 251
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.375}
+*** Analysing case 252
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 253
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.3333333333333333}
+*** Analysing case 254
+{'chain_gold_precision_source': 0.5555555555555556, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.7857142857142857, 'chain_precision_target': 0.21428571428571427, 'chain_f1_target': 0.2608695652173913}
+*** Analysing case 255
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.625, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5, 'chain_f1_target': 0.5555555555555556}
+*** Analysing case 256
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 257
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.14285714285714285}
+*** Analysing case 258
+{'chain_gold_precision_source': 0.38461538461538464, 'chain_recall_target': 0.23076923076923078, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.2637362637362637}
+*** Analysing case 259
+{'chain_gold_precision_source': 0.375, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.2, 'chain_f1_target': 0.22222222222222224}
+*** Analysing case 260
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.4, 'chain_f1_target': 0.4000000000000001}
+*** Analysing case 261
+{'chain_gold_precision_source': 0.4666666666666667, 'chain_recall_target': 0.13333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.15384615384615383}
+*** Analysing case 262
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.5833333333333334, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 263
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.75, 'chain_pegasus_precision_source': 0.6, 'chain_precision_target': 0.3, 'chain_f1_target': 0.4285714285714285}
+*** Analysing case 264
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.3, 'chain_f1_target': 0.3934426229508196}
+*** Analysing case 265
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.1111111111111111, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.125, 'chain_f1_target': 0.11764705882352941}
+*** Analysing case 266
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8260869565217391, 'chain_precision_target': 0.17391304347826086, 'chain_f1_target': 0.25806451612903225}
+*** Analysing case 267
+Skipping as no entities in gold
+*** Analysing case 268
+{'chain_gold_precision_source': 0.8, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.6, 'chain_precision_target': 0.1, 'chain_f1_target': 0.13333333333333333}
+*** Analysing case 269
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 270
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.2222222222222222}
+*** Analysing case 271
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.42857142857142855}
+*** Analysing case 272
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.21052631578947367}
+*** Analysing case 273
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.1111111111111111}
+*** Analysing case 274
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.39999999999999997}
+*** Analysing case 275
+{'chain_gold_precision_source': 0.8, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 0.7647058823529411, 'chain_precision_target': 0.11764705882352941, 'chain_f1_target': 0.19672131147540983}
+*** Analysing case 276
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.17647058823529413, 'chain_f1_target': 0.23076923076923078}
+*** Analysing case 277
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.7272727272727273, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 278
+{'chain_gold_precision_source': 0.2, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.08333333333333333, 'chain_f1_target': 0.11764705882352941}
+*** Analysing case 279
+{'chain_gold_precision_source': 0.5384615384615384, 'chain_recall_target': 0.15384615384615385, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.21052631578947367}
+*** Analysing case 280
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 281
+{'chain_gold_precision_source': 0.4444444444444444, 'chain_recall_target': 0.1111111111111111, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.16}
+*** Analysing case 282
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.13333333333333333}
+*** Analysing case 283
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2, 'chain_f1_target': 0.22222222222222224}
+*** Analysing case 284
+{'chain_gold_precision_source': 0.65, 'chain_recall_target': 0.3, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.5, 'chain_f1_target': 0.37499999999999994}
+*** Analysing case 285
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.2727272727272727, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.20689655172413793}
+*** Analysing case 286
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.2727272727272727, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.3, 'chain_f1_target': 0.28571428571428564}
+*** Analysing case 287
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.625, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.6666666666666666, 'chain_f1_target': 0.6451612903225806}
+*** Analysing case 288
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.6071428571428571, 'chain_precision_target': 0.03571428571428571, 'chain_f1_target': 0.05714285714285715}
+*** Analysing case 289
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.8125, 'chain_precision_target': 0.1875, 'chain_f1_target': 0.19354838709677422}
+*** Analysing case 290
+{'chain_gold_precision_source': 0.6363636363636364, 'chain_recall_target': 0.2727272727272727, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.3, 'chain_f1_target': 0.28571428571428564}
+*** Analysing case 291
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.9230769230769231, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 292
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.35714285714285715, 'chain_pegasus_precision_source': 0.9333333333333333, 'chain_precision_target': 0.3, 'chain_f1_target': 0.32608695652173914}
+*** Analysing case 293
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.9375, 'chain_precision_target': 0.0625, 'chain_f1_target': 0.08695652173913043}
+*** Analysing case 294
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.9230769230769231, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.42105263157894735}
+*** Analysing case 295
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.7058823529411765, 'chain_precision_target': 0.17647058823529413, 'chain_f1_target': 0.2608695652173913}
+*** Analysing case 296
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.2222222222222222}
+*** Analysing case 297
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.9285714285714286, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.375}
+*** Analysing case 298
+{'chain_gold_precision_source': 0.5384615384615384, 'chain_recall_target': 0.46153846153846156, 'chain_pegasus_precision_source': 0.9444444444444444, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.3870967741935484}
+*** Analysing case 299
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 0.8421052631578947, 'chain_precision_target': 0.21052631578947367, 'chain_f1_target': 0.3076923076923077}
+*** Analysing case 300
+{'chain_gold_precision_source': 0.5384615384615384, 'chain_recall_target': 0.15384615384615385, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.12903225806451615}
+*** Analysing case 301
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2631578947368421, 'chain_f1_target': 0.36585365853658536}
+*** Analysing case 302
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.23809523809523808, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5555555555555556, 'chain_f1_target': 0.33333333333333326}
+*** Analysing case 303
+{'chain_gold_precision_source': 0.25, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.13333333333333333}
+*** Analysing case 304
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.6, 'chain_precision_target': 0.2, 'chain_f1_target': 0.23529411764705882}
+*** Analysing case 305
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.2, 'chain_f1_target': 0.1818181818181818}
+*** Analysing case 306
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.037037037037037035, 'chain_f1_target': 0.058823529411764705}
+*** Analysing case 307
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.2}
+*** Analysing case 308
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.75, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.45454545454545453, 'chain_f1_target': 0.5660377358490566}
+*** Analysing case 309
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 0.6, 'chain_precision_target': 0.1, 'chain_f1_target': 0.17142857142857143}
+*** Analysing case 310
+{'chain_gold_precision_source': 0.375, 'chain_recall_target': 0.3125, 'chain_pegasus_precision_source': 0.7272727272727273, 'chain_precision_target': 0.36363636363636365, 'chain_f1_target': 0.33613445378151263}
+*** Analysing case 311
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.75, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.27272727272727276}
+*** Analysing case 312
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.16666666666666666}
+*** Analysing case 313
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.0625, 'chain_f1_target': 0.08695652173913043}
+*** Analysing case 314
+{'chain_gold_precision_source': 0.5882352941176471, 'chain_recall_target': 0.11764705882352941, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2, 'chain_f1_target': 0.14814814814814817}
+*** Analysing case 315
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.38461538461538464, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.4054054054054054}
+*** Analysing case 316
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8823529411764706, 'chain_precision_target': 0.11764705882352941, 'chain_f1_target': 0.19047619047619047}
+*** Analysing case 317
+{'chain_gold_precision_source': 0.7272727272727273, 'chain_recall_target': 0.36363636363636365, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.2285714285714286}
+*** Analysing case 318
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.6, 'chain_precision_target': 0.1, 'chain_f1_target': 0.14285714285714288}
+*** Analysing case 319
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.5217391304347826}
+*** Analysing case 320
+{'chain_gold_precision_source': 0.5833333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 321
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.4, 'chain_f1_target': 0.3076923076923077}
+*** Analysing case 322
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.15384615384615383}
+*** Analysing case 323
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.6, 'chain_precision_target': 0.1, 'chain_f1_target': 0.16666666666666669}
+*** Analysing case 324
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 325
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.1111111111111111, 'chain_pegasus_precision_source': 0.5625, 'chain_precision_target': 0.125, 'chain_f1_target': 0.11764705882352941}
+*** Analysing case 326
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 0.9230769230769231, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.4067796610169492}
+*** Analysing case 327
+{'chain_gold_precision_source': 0.6363636363636364, 'chain_recall_target': 0.2727272727272727, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.3}
+*** Analysing case 328
+{'chain_gold_precision_source': 0.5384615384615384, 'chain_recall_target': 0.5384615384615384, 'chain_pegasus_precision_source': 0.9333333333333333, 'chain_precision_target': 0.4666666666666667, 'chain_f1_target': 0.5}
+*** Analysing case 329
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.4615384615384615}
+*** Analysing case 330
+{'chain_gold_precision_source': 0.2, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 331
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 1.0, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.5}
+*** Analysing case 332
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.625, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 333
+{'chain_gold_precision_source': 0.4166666666666667, 'chain_recall_target': 0.4166666666666667, 'chain_pegasus_precision_source': 0.9411764705882353, 'chain_precision_target': 0.29411764705882354, 'chain_f1_target': 0.3448275862068966}
+*** Analysing case 334
+{'chain_gold_precision_source': 0.46153846153846156, 'chain_recall_target': 0.38461538461538464, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.3571428571428571}
+*** Analysing case 335
+{'chain_gold_precision_source': 0.46153846153846156, 'chain_recall_target': 0.15384615384615385, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.25, 'chain_f1_target': 0.1904761904761905}
+*** Analysing case 336
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.25, 'chain_f1_target': 0.32}
+*** Analysing case 337
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 0.5555555555555556, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.11764705882352941}
+*** Analysing case 338
+{'chain_gold_precision_source': 0.9, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 339
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.2}
+*** Analysing case 340
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.1, 'chain_f1_target': 0.15384615384615383}
+*** Analysing case 341
+{'chain_gold_precision_source': 0.3888888888888889, 'chain_recall_target': 0.2777777777777778, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.25, 'chain_f1_target': 0.2631578947368421}
+*** Analysing case 342
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.1, 'chain_f1_target': 0.16666666666666669}
+*** Analysing case 343
+{'chain_gold_precision_source': 0.5833333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.32}
+*** Analysing case 344
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.25, 'chain_f1_target': 0.3157894736842105}
+*** Analysing case 345
+{'chain_gold_precision_source': 0.5555555555555556, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.1904761904761905}
+*** Analysing case 346
+{'chain_gold_precision_source': 0.375, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 347
+{'chain_gold_precision_source': 0.2857142857142857, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.6363636363636364, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.1111111111111111}
+*** Analysing case 348
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.21428571428571427}
+*** Analysing case 349
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.21428571428571427, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5, 'chain_f1_target': 0.3}
+*** Analysing case 350
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2, 'chain_f1_target': 0.1818181818181818}
+*** Analysing case 351
+{'chain_gold_precision_source': 0.5555555555555556, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.4444444444444444, 'chain_f1_target': 0.4444444444444444}
+*** Analysing case 352
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.5454545454545454, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.14285714285714288}
+*** Analysing case 353
+{'chain_gold_precision_source': 0.16666666666666666, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 354
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.75, 'chain_pegasus_precision_source': 0.9375, 'chain_precision_target': 0.25, 'chain_f1_target': 0.375}
+*** Analysing case 355
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.9230769230769231, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.42105263157894735}
+*** Analysing case 356
+{'chain_gold_precision_source': 0.45454545454545453, 'chain_recall_target': 0.45454545454545453, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.5, 'chain_f1_target': 0.47619047619047616}
+*** Analysing case 357
+{'chain_gold_precision_source': 0.8, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5, 'chain_f1_target': 0.5454545454545454}
+*** Analysing case 358
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5714285714285714, 'chain_f1_target': 0.5333333333333333}
+*** Analysing case 359
+{'chain_gold_precision_source': 0.7272727272727273, 'chain_recall_target': 0.5454545454545454, 'chain_pegasus_precision_source': 0.7647058823529411, 'chain_precision_target': 0.35294117647058826, 'chain_f1_target': 0.42857142857142855}
+*** Analysing case 360
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.2, 'chain_f1_target': 0.25}
+*** Analysing case 361
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5714285714285714, 'chain_f1_target': 0.4210526315789474}
+*** Analysing case 362
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 363
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 364
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.5714285714285714, 'chain_f1_target': 0.5}
+*** Analysing case 365
+{'chain_gold_precision_source': 0.7777777777777778, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.9444444444444444, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.14814814814814814}
+*** Analysing case 366
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 367
+{'chain_gold_precision_source': 0.7692307692307693, 'chain_recall_target': 0.5384615384615384, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.5, 'chain_f1_target': 0.5185185185185186}
+*** Analysing case 368
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.3157894736842105}
+*** Analysing case 369
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 370
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.0, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 371
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 372
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 373
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.36363636363636365}
+*** Analysing case 374
+{'chain_gold_precision_source': 0.6363636363636364, 'chain_recall_target': 0.45454545454545453, 'chain_pegasus_precision_source': 0.9285714285714286, 'chain_precision_target': 0.07142857142857142, 'chain_f1_target': 0.12345679012345678}
+*** Analysing case 375
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2, 'chain_f1_target': 0.20000000000000004}
+*** Analysing case 376
+{'chain_gold_precision_source': 0.08333333333333333, 'chain_recall_target': 0.08333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.25, 'chain_f1_target': 0.125}
+*** Analysing case 377
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.5555555555555556, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 378
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.45454545454545453, 'chain_f1_target': 0.5063291139240506}
+*** Analysing case 379
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.35294117647058826}
+*** Analysing case 380
+{'chain_gold_precision_source': 0.6923076923076923, 'chain_recall_target': 0.2692307692307692, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.45454545454545453, 'chain_f1_target': 0.33816425120772947}
+*** Analysing case 381
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.15, 'chain_f1_target': 0.20689655172413793}
+*** Analysing case 382
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.7272727272727273, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.16}
+*** Analysing case 383
+{'chain_gold_precision_source': 0.7777777777777778, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8823529411764706, 'chain_precision_target': 0.17647058823529413, 'chain_f1_target': 0.23076923076923078}
+*** Analysing case 384
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.14285714285714285}
+*** Analysing case 385
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.4166666666666667, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.3703703703703704}
+*** Analysing case 386
+{'chain_gold_precision_source': 0.8, 'chain_recall_target': 0.3, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.3529411764705882}
+*** Analysing case 387
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.1111111111111111, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.13333333333333333}
+*** Analysing case 388
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.625, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.4123711340206186}
+*** Analysing case 389
+{'chain_gold_precision_source': 0.8, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.37499999999999994}
+*** Analysing case 390
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5454545454545454, 'chain_f1_target': 0.4897959183673469}
+*** Analysing case 391
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.23529411764705885}
+*** Analysing case 392
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.6, 'chain_f1_target': 0.5454545454545454}
+*** Analysing case 393
+{'chain_gold_precision_source': 0.7222222222222222, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.9565217391304348, 'chain_precision_target': 0.08695652173913043, 'chain_f1_target': 0.125}
+*** Analysing case 394
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.4444444444444444, 'chain_f1_target': 0.47058823529411764}
+*** Analysing case 395
+{'chain_gold_precision_source': 0.2, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8947368421052632, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 396
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.625, 'chain_precision_target': 0.125, 'chain_f1_target': 0.15384615384615385}
+*** Analysing case 397
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 398
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 399
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.7333333333333333, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 400
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.07692307692307693, 'chain_f1_target': 0.125}
+*** Analysing case 401
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 402
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.23529411764705882}
+*** Analysing case 403
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.36363636363636365, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.5, 'chain_f1_target': 0.4210526315789474}
+*** Analysing case 404
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.24489795918367344}
+*** Analysing case 405
+{'chain_gold_precision_source': 0.7272727272727273, 'chain_recall_target': 0.36363636363636365, 'chain_pegasus_precision_source': 0.9375, 'chain_precision_target': 0.3125, 'chain_f1_target': 0.33613445378151263}
+*** Analysing case 406
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8235294117647058, 'chain_precision_target': 0.17647058823529413, 'chain_f1_target': 0.2608695652173913}
+*** Analysing case 407
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.4444444444444444, 'chain_f1_target': 0.47058823529411764}
+*** Analysing case 408
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 409
+{'chain_gold_precision_source': 0.45454545454545453, 'chain_recall_target': 0.09090909090909091, 'chain_pegasus_precision_source': 0.5714285714285714, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.1111111111111111}
+*** Analysing case 410
+{'chain_gold_precision_source': 0.5833333333333334, 'chain_recall_target': 0.5833333333333334, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.6190476190476191, 'chain_f1_target': 0.6006600660066007}
+*** Analysing case 411
+{'chain_gold_precision_source': 0.9090909090909091, 'chain_recall_target': 0.2727272727272727, 'chain_pegasus_precision_source': 0.7333333333333333, 'chain_precision_target': 0.26666666666666666, 'chain_f1_target': 0.26966292134831465}
+*** Analysing case 412
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 413
+{'chain_gold_precision_source': 0.18181818181818182, 'chain_recall_target': 0.2727272727272727, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.25, 'chain_f1_target': 0.2608695652173913}
+*** Analysing case 414
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.7692307692307693, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.25}
+*** Analysing case 415
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 1.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.05263157894736842, 'chain_f1_target': 0.1}
+*** Analysing case 416
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.625, 'chain_precision_target': 0.125, 'chain_f1_target': 0.13333333333333333}
+*** Analysing case 417
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 0.9333333333333333, 'chain_precision_target': 0.2, 'chain_f1_target': 0.29629629629629634}
+*** Analysing case 418
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 0.6190476190476191, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.3870967741935483}
+*** Analysing case 419
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.9230769230769231, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.1904761904761905}
+*** Analysing case 420
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 421
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8421052631578947, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 422
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.125}
+*** Analysing case 423
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 424
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 1.0, 'chain_pegasus_precision_source': 0.9473684210526315, 'chain_precision_target': 0.3157894736842105, 'chain_f1_target': 0.4799999999999999}
+*** Analysing case 425
+{'chain_gold_precision_source': 0.44680851063829785, 'chain_recall_target': 0.14893617021276595, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5, 'chain_f1_target': 0.22950819672131148}
+*** Analysing case 426
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.7857142857142857, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.30769230769230765}
+*** Analysing case 427
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.07142857142857142, 'chain_f1_target': 0.11764705882352941}
+*** Analysing case 428
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5, 'chain_f1_target': 0.42857142857142855}
+*** Analysing case 429
+{'chain_gold_precision_source': 0.4444444444444444, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.19999999999999998}
+*** Analysing case 430
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.1, 'chain_f1_target': 0.11111111111111112}
+*** Analysing case 431
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.1, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.11764705882352941}
+*** Analysing case 432
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.12500000000000003}
+*** Analysing case 433
+{'chain_gold_precision_source': 0.8, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.05263157894736842, 'chain_f1_target': 0.08333333333333333}
+*** Analysing case 434
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.1, 'chain_f1_target': 0.16666666666666669}
+*** Analysing case 435
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.9285714285714286, 'chain_precision_target': 0.07142857142857142, 'chain_f1_target': 0.10810810810810811}
+*** Analysing case 436
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.45454545454545453, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.4411764705882353}
+*** Analysing case 437
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.3529411764705882}
+*** Analysing case 438
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 439
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.13333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 440
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.4444444444444444}
+*** Analysing case 441
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.9230769230769231, 'chain_precision_target': 0.38461538461538464, 'chain_f1_target': 0.4054054054054054}
+*** Analysing case 442
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.1818181818181818}
+*** Analysing case 443
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.22222222222222224}
+*** Analysing case 444
+{'chain_gold_precision_source': 0.7272727272727273, 'chain_recall_target': 0.5454545454545454, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.41379310344827586}
+*** Analysing case 445
+{'chain_gold_precision_source': 0.7272727272727273, 'chain_recall_target': 0.18181818181818182, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.1, 'chain_f1_target': 0.12903225806451613}
+*** Analysing case 446
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 447
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.2222222222222222}
+*** Analysing case 448
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.7857142857142857, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.18181818181818182}
+*** Analysing case 449
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 450
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.30769230769230765}
+*** Analysing case 451
+{'chain_gold_precision_source': 0.5333333333333333, 'chain_recall_target': 0.26666666666666666, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.26966292134831465}
+*** Analysing case 452
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8125, 'chain_precision_target': 0.5, 'chain_f1_target': 0.4}
+*** Analysing case 453
+{'chain_gold_precision_source': 0.5833333333333334, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.7333333333333333, 'chain_precision_target': 0.6666666666666666, 'chain_f1_target': 0.6666666666666666}
+*** Analysing case 454
+{'chain_gold_precision_source': 0.16666666666666666, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 455
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.15384615384615383}
+*** Analysing case 456
+{'chain_gold_precision_source': 0.6923076923076923, 'chain_recall_target': 0.23076923076923078, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.22641509433962265}
+*** Analysing case 457
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.1818181818181818}
+*** Analysing case 458
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.16}
+*** Analysing case 459
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 460
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.3}
+*** Analysing case 461
+{'chain_gold_precision_source': 0.38461538461538464, 'chain_recall_target': 0.3076923076923077, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.4, 'chain_f1_target': 0.34782608695652173}
+*** Analysing case 462
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.36363636363636365, 'chain_f1_target': 0.32}
+*** Analysing case 463
+{'chain_gold_precision_source': 0.3, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.6363636363636364, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.1904761904761905}
+*** Analysing case 464
+{'chain_gold_precision_source': 0.375, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.08333333333333333, 'chain_f1_target': 0.1}
+*** Analysing case 465
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.4, 'chain_precision_target': 0.2, 'chain_f1_target': 0.25}
+*** Analysing case 466
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.7692307692307693, 'chain_precision_target': 0.23076923076923078, 'chain_f1_target': 0.3157894736842105}
+*** Analysing case 467
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.7857142857142857, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.19047619047619047}
+*** Analysing case 468
+{'chain_gold_precision_source': 0.8, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.9333333333333333, 'chain_precision_target': 0.26666666666666666, 'chain_f1_target': 0.32}
+*** Analysing case 469
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 470
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.2222222222222222}
+*** Analysing case 471
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.2727272727272727, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.375, 'chain_f1_target': 0.3157894736842105}
+*** Analysing case 472
+{'chain_gold_precision_source': 0.45454545454545453, 'chain_recall_target': 0.2727272727272727, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.3}
+*** Analysing case 473
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.08333333333333333, 'chain_f1_target': 0.1}
+*** Analysing case 474
+{'chain_gold_precision_source': 0.3, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.3333333333333333}
+*** Analysing case 475
+{'chain_gold_precision_source': 0.875, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.5714285714285714, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.3243243243243243}
+*** Analysing case 476
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.08333333333333333, 'chain_f1_target': 0.125}
+*** Analysing case 477
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.26666666666666666, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.2424242424242424}
+*** Analysing case 478
+{'chain_gold_precision_source': 0.23529411764705882, 'chain_recall_target': 0.11764705882352941, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.4, 'chain_f1_target': 0.1818181818181818}
+*** Analysing case 479
+{'chain_gold_precision_source': 0.3076923076923077, 'chain_recall_target': 0.15384615384615385, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.18181818181818185}
+*** Analysing case 480
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 481
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.1, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.12121212121212123}
+*** Analysing case 482
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.3, 'chain_pegasus_precision_source': 0.8620689655172413, 'chain_precision_target': 0.10344827586206896, 'chain_f1_target': 0.15384615384615385}
+*** Analysing case 483
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.25, 'chain_f1_target': 0.3333333333333333}
+*** Analysing case 484
+{'chain_gold_precision_source': 0.4444444444444444, 'chain_recall_target': 0.1111111111111111, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.1111111111111111}
+*** Analysing case 485
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.7333333333333333, 'chain_precision_target': 0.13333333333333333, 'chain_f1_target': 0.18181818181818182}
+*** Analysing case 486
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.07692307692307693, 'chain_f1_target': 0.13333333333333336}
+*** Analysing case 487
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.11764705882352941}
+*** Analysing case 488
+{'chain_gold_precision_source': 0.3, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.23529411764705882}
+*** Analysing case 489
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 490
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.125, 'chain_f1_target': 0.18181818181818182}
+*** Analysing case 491
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.6363636363636364, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.14285714285714288}
+*** Analysing case 492
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.8666666666666667, 'chain_precision_target': 0.13333333333333333, 'chain_f1_target': 0.18181818181818182}
+*** Analysing case 493
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.9285714285714286, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.21052631578947364}
+*** Analysing case 494
+{'chain_gold_precision_source': 0.2857142857142857, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.5, 'chain_precision_target': 0.5, 'chain_f1_target': 0.4615384615384615}
+*** Analysing case 495
+{'chain_gold_precision_source': 0.5555555555555556, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.6, 'chain_precision_target': 0.2, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 496
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.4444444444444444}
+*** Analysing case 497
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.125, 'chain_f1_target': 0.125}
+*** Analysing case 498
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 499
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.2222222222222222}
+*** Analysing case 500
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.6153846153846154, 'chain_precision_target': 0.07692307692307693, 'chain_f1_target': 0.10526315789473684}
+*** Analysing case 501
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.7368421052631579, 'chain_precision_target': 0.2631578947368421, 'chain_f1_target': 0.3773584905660377}
+*** Analysing case 502
+{'chain_gold_precision_source': 0.625, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.3529411764705882}
+*** Analysing case 503
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.7142857142857143, 'chain_pegasus_precision_source': 0.5714285714285714, 'chain_precision_target': 0.35714285714285715, 'chain_f1_target': 0.4761904761904762}
+*** Analysing case 504
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.625, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.38461538461538464, 'chain_f1_target': 0.4761904761904762}
+*** Analysing case 505
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.2222222222222222}
+*** Analysing case 506
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.2, 'chain_f1_target': 0.20000000000000004}
+*** Analysing case 507
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.0625, 'chain_f1_target': 0.10526315789473684}
+*** Analysing case 508
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2, 'chain_f1_target': 0.25}
+*** Analysing case 509
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.07142857142857142, 'chain_f1_target': 0.12698412698412698}
+*** Analysing case 510
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.3, 'chain_pegasus_precision_source': 0.5714285714285714, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.3529411764705882}
+*** Analysing case 511
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.24}
+*** Analysing case 512
+{'chain_gold_precision_source': 0.2, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 513
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.6470588235294118, 'chain_precision_target': 0.11764705882352941, 'chain_f1_target': 0.19047619047619047}
+*** Analysing case 514
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.25, 'chain_f1_target': 0.28571428571428575}
+*** Analysing case 515
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.125, 'chain_f1_target': 0.15384615384615385}
+*** Analysing case 516
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.36363636363636365, 'chain_f1_target': 0.4210526315789474}
+*** Analysing case 517
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.5714285714285714, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 518
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.6923076923076923, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 519
+{'chain_gold_precision_source': 0.6428571428571429, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.5454545454545454, 'chain_f1_target': 0.5217391304347826}
+*** Analysing case 520
+{'chain_gold_precision_source': 0.2, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.2, 'chain_f1_target': 0.20000000000000004}
+*** Analysing case 521
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.25, 'chain_f1_target': 0.36363636363636365}
+*** Analysing case 522
+{'chain_gold_precision_source': 0.35714285714285715, 'chain_recall_target': 0.21428571428571427, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.25, 'chain_f1_target': 0.23076923076923075}
+*** Analysing case 523
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.08333333333333333, 'chain_f1_target': 0.1111111111111111}
+*** Analysing case 524
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.7692307692307693, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.21052631578947367}
+*** Analysing case 525
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.6666666666666666, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.23529411764705882}
+*** Analysing case 526
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.8125, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 527
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.7692307692307693, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.23529411764705882}
+*** Analysing case 528
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.09090909090909091, 'chain_f1_target': 0.15384615384615385}
+*** Analysing case 529
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.25, 'chain_f1_target': 0.3}
+*** Analysing case 530
+{'chain_gold_precision_source': 0.6363636363636364, 'chain_recall_target': 0.36363636363636365, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.36363636363636365, 'chain_f1_target': 0.36363636363636365}
+*** Analysing case 531
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.3, 'chain_f1_target': 0.3529411764705882}
+*** Analysing case 532
+{'chain_gold_precision_source': 0.14285714285714285, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.14814814814814817}
+*** Analysing case 533
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 534
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.19047619047619047}
+*** Analysing case 535
+{'chain_gold_precision_source': 0.875, 'chain_recall_target': 0.75, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.5454545454545454, 'chain_f1_target': 0.631578947368421}
+*** Analysing case 536
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.30769230769230765}
+*** Analysing case 537
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.9411764705882353, 'chain_precision_target': 0.35294117647058826, 'chain_f1_target': 0.41379310344827586}
+*** Analysing case 538
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.75, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.375, 'chain_f1_target': 0.5}
+*** Analysing case 539
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.375}
+*** Analysing case 540
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.7, 'chain_pegasus_precision_source': 0.8666666666666667, 'chain_precision_target': 0.26666666666666666, 'chain_f1_target': 0.38620689655172413}
+*** Analysing case 541
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.7857142857142857, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 542
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.5555555555555556, 'chain_precision_target': 0.4444444444444444, 'chain_f1_target': 0.47058823529411764}
+*** Analysing case 543
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.2, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 544
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 1.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2, 'chain_f1_target': 0.33333333333333337}
+*** Analysing case 545
+{'chain_gold_precision_source': 0.5384615384615384, 'chain_recall_target': 0.07692307692307693, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2222222222222222, 'chain_f1_target': 0.1142857142857143}
+*** Analysing case 546
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 547
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.1875, 'chain_f1_target': 0.25531914893617025}
+*** Analysing case 548
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.9333333333333333, 'chain_precision_target': 0.13333333333333333, 'chain_f1_target': 0.2105263157894737}
+*** Analysing case 549
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.5625, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 550
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 551
+{'chain_gold_precision_source': 0.7692307692307693, 'chain_recall_target': 0.5384615384615384, 'chain_pegasus_precision_source': 0.7647058823529411, 'chain_precision_target': 0.47058823529411764, 'chain_f1_target': 0.5022421524663677}
+*** Analysing case 552
+Skipping as no entities in gold
+*** Analysing case 553
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 554
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.2222222222222222}
+*** Analysing case 555
+{'chain_gold_precision_source': 0.23076923076923078, 'chain_recall_target': 0.07692307692307693, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.06666666666666667, 'chain_f1_target': 0.07142857142857144}
+*** Analysing case 556
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.7142857142857143, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.23529411764705882}
+*** Analysing case 557
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.9285714285714286, 'chain_precision_target': 0.21428571428571427, 'chain_f1_target': 0.2608695652173913}
+*** Analysing case 558
+{'chain_gold_precision_source': 0.6363636363636364, 'chain_recall_target': 0.45454545454545453, 'chain_pegasus_precision_source': 0.7692307692307693, 'chain_precision_target': 0.38461538461538464, 'chain_f1_target': 0.41666666666666663}
+*** Analysing case 559
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.9375, 'chain_precision_target': 0.3125, 'chain_f1_target': 0.3225806451612903}
+*** Analysing case 560
+{'chain_gold_precision_source': 0.3793103448275862, 'chain_recall_target': 0.06896551724137931, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.2, 'chain_f1_target': 0.10256410256410257}
+*** Analysing case 561
+{'chain_gold_precision_source': 0.5555555555555556, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.6428571428571429, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.17391304347826086}
+*** Analysing case 562
+{'chain_gold_precision_source': 0.2, 'chain_recall_target': 0.1, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.10526315789473685}
+*** Analysing case 563
+{'chain_gold_precision_source': 0.6363636363636364, 'chain_recall_target': 0.5454545454545454, 'chain_pegasus_precision_source': 0.7857142857142857, 'chain_precision_target': 0.35714285714285715, 'chain_f1_target': 0.43165467625899273}
+*** Analysing case 564
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 565
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.4166666666666667, 'chain_f1_target': 0.48192771084337344}
+*** Analysing case 566
+{'chain_gold_precision_source': 0.9, 'chain_recall_target': 0.8, 'chain_pegasus_precision_source': 0.9565217391304348, 'chain_precision_target': 0.2608695652173913, 'chain_f1_target': 0.39344262295081966}
+*** Analysing case 567
+{'chain_gold_precision_source': 0.7857142857142857, 'chain_recall_target': 0.6428571428571429, 'chain_pegasus_precision_source': 0.6428571428571429, 'chain_precision_target': 0.5714285714285714, 'chain_f1_target': 0.6050420168067226}
+*** Analysing case 568
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8421052631578947, 'chain_precision_target': 0.05263157894736842, 'chain_f1_target': 0.08695652173913043}
+*** Analysing case 569
+{'chain_gold_precision_source': 0.23529411764705882, 'chain_recall_target': 0.23529411764705882, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.38461538461538464, 'chain_f1_target': 0.291970802919708}
+*** Analysing case 570
+{'chain_gold_precision_source': 0.0, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.7272727272727273, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 571
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 572
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.7777777777777778, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.16}
+*** Analysing case 573
+{'chain_gold_precision_source': 0.2857142857142857, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.9565217391304348, 'chain_precision_target': 0.2608695652173913, 'chain_f1_target': 0.1846153846153846}
+*** Analysing case 574
+{'chain_gold_precision_source': 0.6923076923076923, 'chain_recall_target': 0.07692307692307693, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.14285714285714285, 'chain_f1_target': 0.1}
+*** Analysing case 575
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.38095238095238093}
+*** Analysing case 576
+{'chain_gold_precision_source': 0.8, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.08333333333333333, 'chain_f1_target': 0.11764705882352941}
+*** Analysing case 577
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.2222222222222222}
+*** Analysing case 578
+{'chain_gold_precision_source': 0.5555555555555556, 'chain_recall_target': 0.4444444444444444, 'chain_pegasus_precision_source': 0.7586206896551724, 'chain_precision_target': 0.4827586206896552, 'chain_f1_target': 0.4628099173553719}
+*** Analysing case 579
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.6, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.21428571428571427, 'chain_f1_target': 0.3157894736842105}
+*** Analysing case 580
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.23529411764705885}
+*** Analysing case 581
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.125}
+*** Analysing case 582
+{'chain_gold_precision_source': 0.5714285714285714, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.8, 'chain_precision_target': 0.2, 'chain_f1_target': 0.16666666666666666}
+*** Analysing case 583
+{'chain_gold_precision_source': 0.5263157894736842, 'chain_recall_target': 0.10526315789473684, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.18181818181818182, 'chain_f1_target': 0.13333333333333333}
+*** Analysing case 584
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.16666666666666666, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.16666666666666666}
+*** Analysing case 585
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.375, 'chain_f1_target': 0.42857142857142855}
+*** Analysing case 586
+{'chain_gold_precision_source': 0.25, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.16666666666666666, 'chain_f1_target': 0.14285714285714288}
+*** Analysing case 587
+{'chain_gold_precision_source': 0.4, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.125, 'chain_f1_target': 0.15384615384615385}
+*** Analysing case 588
+{'chain_gold_precision_source': 0.5833333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.9090909090909091, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.3}
+*** Analysing case 589
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.2857142857142857, 'chain_f1_target': 0.34285714285714286}
+*** Analysing case 590
+{'chain_gold_precision_source': 0.7142857142857143, 'chain_recall_target': 0.5714285714285714, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.20833333333333334, 'chain_f1_target': 0.30534351145038163}
+*** Analysing case 591
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.375, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.23076923076923078, 'chain_f1_target': 0.2857142857142857}
+*** Analysing case 592
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.3333333333333333, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.1, 'chain_f1_target': 0.15384615384615383}
+*** Analysing case 593
+{'chain_gold_precision_source': 0.7619047619047619, 'chain_recall_target': 0.14285714285714285, 'chain_pegasus_precision_source': 0.9333333333333333, 'chain_precision_target': 0.26666666666666666, 'chain_f1_target': 0.18604651162790697}
+*** Analysing case 594
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.1111111111111111, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.08333333333333333, 'chain_f1_target': 0.09523809523809525}
+*** Analysing case 595
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.25, 'chain_f1_target': 0.3333333333333333}
+*** Analysing case 596
+{'chain_gold_precision_source': 0.4166666666666667, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.8571428571428571, 'chain_precision_target': 0.42857142857142855, 'chain_f1_target': 0.3157894736842105}
+*** Analysing case 597
+{'chain_gold_precision_source': 0.4444444444444444, 'chain_recall_target': 0.2222222222222222, 'chain_pegasus_precision_source': 0.6923076923076923, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.18181818181818185}
+*** Analysing case 598
+{'chain_gold_precision_source': 0.75, 'chain_recall_target': 0.75, 'chain_pegasus_precision_source': 0.8181818181818182, 'chain_precision_target': 0.2727272727272727, 'chain_f1_target': 0.39999999999999997}
+*** Analysing case 599
+{'chain_gold_precision_source': 0.6666666666666666, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8888888888888888, 'chain_precision_target': 0.3333333333333333, 'chain_f1_target': 0.4}
+*** Analysing case 600
+{'chain_gold_precision_source': 0.5454545454545454, 'chain_recall_target': 0.5454545454545454, 'chain_pegasus_precision_source': 0.7857142857142857, 'chain_precision_target': 0.35714285714285715, 'chain_f1_target': 0.43165467625899273}
+*** Analysing case 601
+{'chain_gold_precision_source': 0.4117647058823529, 'chain_recall_target': 0.11764705882352941, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.3076923076923077, 'chain_f1_target': 0.1702127659574468}
+*** Analysing case 602
+{'chain_gold_precision_source': 0.42857142857142855, 'chain_recall_target': 0.42857142857142855, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.1875, 'chain_f1_target': 0.26086956521739124}
+*** Analysing case 603
+{'chain_gold_precision_source': 0.6111111111111112, 'chain_recall_target': 0.6111111111111112, 'chain_pegasus_precision_source': 0.7333333333333333, 'chain_precision_target': 0.5, 'chain_f1_target': 0.55}
+*** Analysing case 604
+{'chain_gold_precision_source': 0.8, 'chain_recall_target': 0.4, 'chain_pegasus_precision_source': 0.9, 'chain_precision_target': 0.2, 'chain_f1_target': 0.26666666666666666}
+*** Analysing case 605
+{'chain_gold_precision_source': 0.6923076923076923, 'chain_recall_target': 0.3076923076923077, 'chain_pegasus_precision_source': 0.8333333333333334, 'chain_precision_target': 0.4166666666666667, 'chain_f1_target': 0.35398230088495575}
+*** Analysing case 606
+{'chain_gold_precision_source': 0.8571428571428571, 'chain_recall_target': 0.2857142857142857, 'chain_pegasus_precision_source': 0.6923076923076923, 'chain_precision_target': 0.15384615384615385, 'chain_f1_target': 0.2}
+*** Analysing case 607
+{'chain_gold_precision_source': 0.6, 'chain_recall_target': 0.3, 'chain_pegasus_precision_source': 0.9166666666666666, 'chain_precision_target': 0.25, 'chain_f1_target': 0.2727272727272727}
+*** Analysing case 608
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.8461538461538461, 'chain_precision_target': 0.07692307692307693, 'chain_f1_target': 0.13333333333333336}
+*** Analysing case 609
+{'chain_gold_precision_source': 0.7, 'chain_recall_target': 0.2, 'chain_pegasus_precision_source': 0.75, 'chain_precision_target': 0.125, 'chain_f1_target': 0.15384615384615385}
+*** Analysing case 610
+{'chain_gold_precision_source': 0.3333333333333333, 'chain_recall_target': 0.0, 'chain_pegasus_precision_source': 0.7, 'chain_precision_target': 0.0, 'chain_f1_target': 0}
+*** Analysing case 611
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.125, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.125, 'chain_f1_target': 0.125}
+*** Analysing case 612
+{'chain_gold_precision_source': 1.0, 'chain_recall_target': 1.0, 'chain_pegasus_precision_source': 1.0, 'chain_precision_target': 0.15, 'chain_f1_target': 0.2608695652173913}
+*** Analysing case 613
+{'chain_gold_precision_source': 0.6153846153846154, 'chain_recall_target': 0.5384615384615384, 'chain_pegasus_precision_source': 0.782608695652174, 'chain_precision_target': 0.43478260869565216, 'chain_f1_target': 0.4810996563573883}
+*** Analysing case 614
+{'chain_gold_precision_source': 0.5, 'chain_recall_target': 0.25, 'chain_pegasus_precision_source': 0.6666666666666666, 'chain_precision_target': 0.1111111111111111, 'chain_f1_target': 0.15384615384615383}
+*** Analysing case 615
+{'chain_gold_precision_source': 0.8333333333333334, 'chain_recall_target': 0.5, 'chain_pegasus_precision_source': 0.875, 'chain_precision_target': 0.25, 'chain_f1_target': 0.3333333333333333}
+** Analysing column: chain_gold_precision_source
+
+
+
+chain_gold_precision_source
+Length after nones removed
+613
+MIN
+0.0
+MEAN
+0.5844210295091163
+MAX
+1.0
+** Analysing column: chain_recall_target
+
+
+
+chain_recall_target
+Length after nones removed
+613
+MIN
+0.0
+MEAN
+0.31742339954329163
+MAX
+1.0
+** Analysing column: chain_pegasus_precision_source
+
+
+
+chain_pegasus_precision_source
+Length after nones removed
+613
+MIN
+0.0
+MEAN
+0.8169299475609276
+MAX
+1.0
+** Analysing column: chain_precision_target
+
+
+
+chain_precision_target
+Length after nones removed
+613
+MIN
+0.0
+MEAN
+0.22796453984287673
+MAX
+0.75
+** Analysing column: chain_f1_target
+
+
+
+chain_f1_target
+Length after nones removed
+613
+MIN
+0.0
+MEAN
+0.2454156601944289
+MAX
+0.6666666666666666
+{'ORG': 429, 'DATE': 535, 'LAW': 258, 'CLAIMANT_INFO': 47, 'MONEY': 45, 'NORP': 4, 'PERSON': 19, 'GPE': 21}

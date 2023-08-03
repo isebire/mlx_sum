@@ -1,0 +1,101 @@
+{
+  "citation": "",
+  "dataset_size": 110173236,
+  "description": "",
+  "download_checksums": {
+    "https://huggingface.co/datasets/isebire/mlx_PEGASUS_WBERT/resolve/033d3e69b42e6e52e89a4513a436ded984f5275e/data/train-00000-of-00001-98e32759c949d5c7.parquet": {
+      "num_bytes": 37193242,
+      "checksum": null
+    },
+    "https://huggingface.co/datasets/isebire/mlx_PEGASUS_WBERT/resolve/033d3e69b42e6e52e89a4513a436ded984f5275e/data/validation-00000-of-00001-bb2f719af68b6190.parquet": {
+      "num_bytes": 4692543,
+      "checksum": null
+    },
+    "https://huggingface.co/datasets/isebire/mlx_PEGASUS_WBERT/resolve/033d3e69b42e6e52e89a4513a436ded984f5275e/data/test-00000-of-00001-8441e8162c63bab6.parquet": {
+      "num_bytes": 12687918,
+      "checksum": null
+    }
+  },
+  "download_size": 54573703,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "first_1024": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "first_k": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "oreo_sents": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "oreo_windows": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "oreo_paras": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "textrank_30": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary/short_no_chain": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary/short_chain_surface": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary/short_chain_label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary/short_chain_both": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "bert_sents": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "bert_windows": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "bert_paras": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 164746939,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 75465976,
+      "num_examples": 2508,
+      "dataset_name": "parquet"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 9125476,
+      "num_examples": 312,
+      "dataset_name": "parquet"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 25581784,
+      "num_examples": 616,
+      "dataset_name": "parquet"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "first_1024": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "first_k": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "oreo_sents": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "oreo_windows": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "oreo_paras": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "textrank_30": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary/short_no_chain": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary/short_chain_surface": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary/short_chain_label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary/short_chain_both": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "bert_sents": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "bert_windows": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "bert_paras": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

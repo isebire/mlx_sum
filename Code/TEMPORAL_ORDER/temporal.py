@@ -27,19 +27,37 @@ for split in ['validation', 'test', 'train']:
 
         # Retrieve the links
         doc_links = original_case['sources_metadata']['url']
+        doc_types = original_case['sources_metadata']['doc_type']
+
+        docket_temporal_order = []
 
         # Get the temporal order
         temporal_order = []
         for original_position, url in enumerate(doc_links):
+
+
+
             if url is None:
                 # very rare special case
-                temporal_order.append((original_position, parse('01/01/2099')))
+                if doc_types[original_position] == 'Docket':
+                    docket_temporal_order.append((original_position, parse('01/01/2099')))
+                else:
+                    temporal_order.append((original_position, parse('01/01/2099')))
                 continue
 
 
             # UA to stop access denied when request sent
             headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-            r = requests.get(url, headers=headers)
+
+            complete = False
+            while complete is False:
+                try:
+                    r = requests.get(url, headers=headers)
+                    complete = True
+                except:
+                    print('Error - waiting')
+                    time.sleep(30)
+
             while r.status_code != 200:
                 print('ERROR')
                 print(r.status_code)
@@ -54,26 +72,44 @@ for split in ['validation', 'test', 'train']:
             try:
                 date = str(div).split("<h1", 1)[1].split('</h1')[0].split(')')[-2].split('(')[-1]
                 print(date)
-                temporal_order.append((original_position, parse(date)))
+                if doc_types[original_position] == 'Docket':
+                    docket_temporal_order.append((original_position, parse(date)))
+                else:
+                    temporal_order.append((original_position, parse(date)))
 
             except:
                 # some documents (eg associated forms) actually have no date - put at end
-                temporal_order.append((original_position, parse('01/01/2099')))
+                if doc_types[original_position] == 'Docket':
+                    docket_temporal_order.append((original_position, parse('01/01/2099')))
+                else:
+                    temporal_order.append((original_position, parse('01/01/2099')))
                 print('! No date - putting at end')
                 print(url)
-            # time.sleep(0.5)
+            #time.sleep(1)
 
         temporal_order = sorted(temporal_order, key=lambda x: x[1])
         temporal_indices = [x[0] for x in temporal_order]
         # docket last
-        temporal_indices.append(temporal_indices.pop(0))
+        docket_temporal_order = sorted(docket_temporal_order, key=lambda x: x[1])
+        docket_temporal_indices = [x[0] for x in docket_temporal_order]
+        temporal_indices = temporal_indices + docket_temporal_indices
+
+        # print(temporal_indices)  ###
 
         # Make new documents list
         print('Reordering....')
         docs = case['sources_clean']  #.split('\n[DOCSPLIT]\n')
+
         new_docs = []
         for idx in temporal_indices:
             new_docs.append(docs[idx])
+
+        # for doc in new_docs:
+        #     print(doc[:500])
+        #     print('####')
+        # print('----')
+        #
+        # input('fish')
 
         case_data['sources_clean'] = new_docs
 
@@ -96,14 +132,14 @@ for split in ['validation', 'test', 'train']:
     mlx_temporal[split] = ds
 
     # Export to csv -> maybe source of list of lists issues
-    filename = 'mlx_cleaned_ordered_' + split + '.csv'
-    ds.to_csv(filename, index=None)
+    #filename = '230712_mlx_cleaned_ordered_' + split + '.csv'
+    #ds.to_csv(filename, index=None)
 
     # Export to disk
-    filename = 'mlx_cleaned_ordered_' + split + '.hf'
+    filename = '230714_mlx_cleaned_ordered_' + split + '.hf'
     ds.save_to_disk(filename)
 
 
 # output the DatasetDict huggingface
 print('*** Uploading to huggingface')
-mlx_temporal.push_to_hub("isebire/mlx_CLEANED_ORDERED", private=True)
+mlx_temporal.push_to_hub("isebire/230714_mlx_CLEANED_ORDERED", private=True)

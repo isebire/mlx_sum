@@ -1,0 +1,6 @@
+Entered file!
+Imports done!
+*** RUN *** 
+chain_3d
+** Loading results csv
+*** Analysing case 0

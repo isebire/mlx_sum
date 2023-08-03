@@ -4,6 +4,7 @@ from datasets import load_dataset, load_from_disk
 import statistics
 from readability import Readability
 import pandas
+from readability_score.calculators.fleschkincaid import *
 
 
 def remove_nones(data):
@@ -41,6 +42,7 @@ mlx_test = mlx['test']
 print(len(mlx_test))
 
 fk = []
+fk2 = []
 cl = []
 ari = []
 smog = []

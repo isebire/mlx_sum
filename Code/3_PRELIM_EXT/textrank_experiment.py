@@ -5,34 +5,36 @@ import spacy
 import pytextrank
 from icecream import ic
 
-mlx = load_dataset("isebire/multi_lexsum_CLEANED_2")
+mlx = load_dataset("isebire/230714_mlx_CLEANED_ORDERED")
 nlp = spacy.load("en_core_web_sm")
 nlp.add_pipe("textrank")
 
 bs_paras = []
 
-for split in ['validation']:
+for split in ['test']:
 
-    for case in [mlx[split][0]]:  # classic
-        summary = case['summary/long_w_chain'].split('[SUMMARY]')[1].strip()
+    for case in mlx[split]:  # classic
+        summary = case['summary/short_w_chain'].split('[SUMMARY]')[1]
 
         # Get source documents as a list of paragraphs
         sources = case['sources_clean']
-        flat = '\n'.join(sources)
+        sources_no_docket = []
+        for source in sources:
+            if not 'CIVIL DOCKET' in doc:
+                sources_no_docket.append(source)
+        flat = '\n'.join(sources_no_docket)
 
         doc = nlp(flat)
-        for phrase in doc._.phrases:
-            print(phrase.text)
-            print(phrase.rank, phrase.count)
-            print(phrase.chunks)
-
         tr = doc._.textrank
-        # top ranked phrases
-        for phrase in doc._.phrases:
-            ic(phrase.rank, phrase.count, phrase.text)
-            ic(phrase.chunks)
 
         print('Summary')
 
-        for sent in tr.summary(limit_phrases=15, limit_sentences=10):
-            ic(sent)
+        summary_sents = tr.summary(limit_sentences=30)   # limit_phrases=15
+
+        # Order
+        summary_sents = sorted([str(x) for x in summary_sents], key=lambda x: flat.index(x))
+
+        tr_summary = ''.join(summary_sents).replace('\n', ' ')
+        print(tr_summary)
+
+        input('fish')

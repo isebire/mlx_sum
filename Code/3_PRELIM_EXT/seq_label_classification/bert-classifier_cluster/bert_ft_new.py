@@ -244,6 +244,7 @@ for batch in prediction_dataloader:
     label_ids = b_labels.to('cpu').numpy()
 
     # Printing
+    '''
     print('logits')
     print(logits)
     probabilities = softmax(logits, axis=1)
@@ -251,6 +252,7 @@ for batch in prediction_dataloader:
     print(probabilities)
     with open(f"{args.outputDir}/probs_pickle", 'wb') as f:
         pickle.dump(probabilities, f)
+    '''
 
     # Store predictions and true labels
     predictions.append(logits)

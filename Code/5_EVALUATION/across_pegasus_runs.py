@@ -1,4 +1,5 @@
 # Comparison of metrics across all runs
+# **** things to fill in
 
 import pandas
 import GRAPHS as graphs
@@ -6,14 +7,14 @@ from datasets import load_dataset, load_from_disk
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, PegasusTokenizer
 import numpy as np
 
-# All the columns of pegasus metrics with titles
+# All the columns of pegasus metrics with titles ****
 COLNAMES = {'r1_recall': 'Rouge 1 Recall', 'r1_precision': 'Rouge 1 Precision', ...}
 
-# Columns where there is also a corresponding gold one
+# Columns where there is also a corresponding gold one ****
 COLS_INCLUDE_GOLD_COMPARISON = {'pegasus_entailment': 'gold_entailment', ...}
 
 # Load csv files (do for all runs)
-RUN_NAMES = ['chain_surface', ...]  # etc
+RUN_NAMES = ['chain_surface', ...]  # **** etc
 run_labels = [i.split('_').title() for i in RUN_NAMES]
 
 run_dfs = []   # [df_run1, ...] etc
@@ -59,7 +60,7 @@ for i, case in enumerate(mlx_test):
 
 
 # pick something to compare to (run and column)
-# best option? see later. just something for now
+# best option? see later. just something for now ****
 comparison_metric_column = run_dfs[0]['r2_recall']
 pearson_correlation = np.corrcoef(source_token_counts, comparison_metric_column)
 print(pearson_correlation[0, 1])  # it returns a matrix!
