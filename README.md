@@ -1,5 +1,9 @@
 BSc Dissertation (Artificial Intelligence) - Isabel Sebire
+
+
 The code submission is structured as follows:
+
+
 * 1_DATASET_AND_EXPLORATORY: Code relating to the exploratory analysis of the Multi-LexSum dataset.
 * 2_CLEANING_AND_NER: Code relating to dataset cleaning and NER tagging.
 * 3_PRELIM_EXT: Code relating to constructing input representations (includes OREO, and CaseLawBERT classification).
