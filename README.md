@@ -1,4 +1,4 @@
-BSc Dissertation (Artificial Intelligence) - Isabel Sebire
+MSc Dissertation (Artificial Intelligence) - Isabel Sebire
 
 
 The code submission is structured as follows:
